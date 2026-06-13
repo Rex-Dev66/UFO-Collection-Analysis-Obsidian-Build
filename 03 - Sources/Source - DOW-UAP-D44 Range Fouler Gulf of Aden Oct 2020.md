@@ -11,7 +11,7 @@ mdr_number: MDR 26-0038 thru 26-0046
 original_classification:: SECRET//NOFORN
 release_authority:: MG Richard A. Harrison, USCENTCOM Chief of Staff
 release_date:: 2026-03-27
-file_path:: `../DOW-UAP-D44-Range-Fouler-Arabian-Sea-October-2020.pdf`
+source_document:: `DOW-UAP-D44-Range-Fouler-Arabian-Sea-October-2020.pdf`
 date_of_document:: 2020-10-15
 
 ## Summary

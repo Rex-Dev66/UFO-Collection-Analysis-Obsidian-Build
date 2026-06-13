@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf`
+source_document:: `DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf`
 page_count:: 4
 date_of_document:: 2026-06-05
 signed_by:: Jon T. Kosloski, Director, AARO

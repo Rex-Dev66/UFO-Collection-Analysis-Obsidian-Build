@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D32-Mission-Report,-Syria-October-2024.pdf`
+source_document:: `DOW-UAP-D32-Mission-Report,-Syria-October-2024.pdf`
 date_of_document:: 2024-10
 
 ## Summary

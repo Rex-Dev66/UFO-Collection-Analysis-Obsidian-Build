@@ -7,7 +7,7 @@ type: source
 ## Document metadata
 
 original_classification:: UNCLASSIFIED
-file_path:: `../NASA-UAP-D1-Apollo-12-Transcript-1969.pdf`
+source_document:: `NASA-UAP-D1-Apollo-12-Transcript-1969.pdf`
 date_of_document:: November 1969
 
 ## Summary

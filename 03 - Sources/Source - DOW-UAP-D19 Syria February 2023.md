@@ -16,7 +16,7 @@ release_authority:: MG Richard A. Harrison, USCENTCOM Chief of Staff
 release_date:: 2025-10-08
 mdr_number:: MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
 declassification_date_in_doc:: 2048-01-20 (original)
-file_path:: `../DOW-UAP-D19-Mission-Report-Syria-February-21-2023.pdf`
+source_document:: `DOW-UAP-D19-Mission-Report-Syria-February-21-2023.pdf`
 page_count:: 10
 date_of_document:: 2023-02-21
 report_type:: MISREP

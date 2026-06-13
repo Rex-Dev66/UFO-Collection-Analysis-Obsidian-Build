@@ -14,7 +14,7 @@ original_classification:: CONFIDENTIAL
 current_classification:: Declassified in Full / Released in Full
 release_authority:: John Powers, Acting Director, U.S. Department of State
 release_date:: 2026-02-25
-file_path:: `../059UAP00011.pdf`
+source_document:: `059UAP00011.pdf`
 date_of_document:: 30 October 2001
 mrn:: 01 MOSCOW 13169
 subject:: UFOS OVER GEORGIA: STRANGE ENCOUNTERS OF AN MFA KIND

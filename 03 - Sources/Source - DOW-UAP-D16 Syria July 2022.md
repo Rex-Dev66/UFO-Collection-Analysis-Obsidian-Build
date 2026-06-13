@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D16-Mission-Report-Syria-July-2022.pdf`
+source_document:: `DOW-UAP-D16-Mission-Report-Syria-July-2022.pdf`
 date_of_document:: 2022-07
 
 ## Summary

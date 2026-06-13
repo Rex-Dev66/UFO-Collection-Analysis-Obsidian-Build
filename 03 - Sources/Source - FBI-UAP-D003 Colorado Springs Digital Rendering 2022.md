@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D003_Digital-Rendering_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
+source_document:: `FBI-UAP-D003_Digital-Rendering_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
 page_count:: 1
 date_of_document:: 2022 event; rendering produced from the 2024 forensic sketch
 

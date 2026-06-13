@@ -13,7 +13,7 @@ original_classification:: CONFIDENTIAL (struck through)
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D086_USNavy-Report-of-Flying-Discs_1948.pdf`
+source_document:: `DOW-UAP-D086_USNavy-Report-of-Flying-Discs_1948.pdf`
 page_count:: 3
 date_of_document:: 1948-12-13
 

@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D014_Digital-Rendering_Incident-1-1_Western-US-Event_2023.jpg` (through D023)
+source_document:: `FBI-UAP-D014_Digital-Rendering_Incident-1-1_Western-US-Event_2023.jpg` (through D023)
 page_count:: 10 images (Incident 1: 3 views; Incident 2: 7 views)
 date_of_document:: 2023 event; renderings AI-generated 2026
 

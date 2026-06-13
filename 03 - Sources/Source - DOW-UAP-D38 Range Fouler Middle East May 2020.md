@@ -12,7 +12,7 @@ original_classification:: SECRET
 release_authority:: MG Richard A. Harrison, USCENTCOM Chief of Staff
 release_date:: 2026-01-26
 mdr_number:: USCENTCOM MDR 26-0019
-file_path:: `../DOW-UAP-D38-Range-Fouler-Debrief-Middle-East-May-2020.pdf`
+source_document:: `DOW-UAP-D38-Range-Fouler-Debrief-Middle-East-May-2020.pdf`
 date_of_document:: 2020-05-14
 
 ## Summary

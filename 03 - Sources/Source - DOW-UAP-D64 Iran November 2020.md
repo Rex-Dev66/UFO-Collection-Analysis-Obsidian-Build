@@ -13,7 +13,7 @@ release_date: 2026-03-16
 release_authority:: USCENTCOM
 release_date:: 2026-03-16
 mdr_number:: 
-file_path:: `../DOW-UAP-D64-Mission-Report-Iran-November-2020.pdf`
+source_document:: `DOW-UAP-D64-Mission-Report-Iran-November-2020.pdf`
 date_of_document:: 2020-11-02
 
 ## Summary

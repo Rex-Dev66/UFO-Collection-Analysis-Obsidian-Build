@@ -15,7 +15,7 @@ current_classification:: heavily redacted
 release_authority:: USCENTCOM
 release_date:: 2025-10-08
 mdr_number:: MDR 25-0094 thru 25-0099
-file_path:: `../DOW-UAP-D3-Mission-Report-Arabian-Gulf-2020.pdf`
+source_document:: `DOW-UAP-D3-Mission-Report-Arabian-Gulf-2020.pdf`
 date_of_document:: 2020 (precise date redacted)
 
 ## Summary

@@ -13,22 +13,22 @@ type: source
 
 | File | Polarity | Object | Notes |
 | ---- | -------- | ------ | ----- |
-| `../FBI-Photo-A1.png` | Black-hot inferred | Small dark dot right of center | Background appears to be water |
-| `../FBI-Photo-A2.png` | Black-hot | Dark spherical object centered | Terrain background |
-| `../FBI-Photo-A3.png` | Black-hot | Dark spherical, slight right of center | Same general scene type as A2 |
-| `../FBI-Photo-A4.png` | Black-hot | Dark spherical, slight right of crosshair | Same scene type |
-| `../FBI-Photo-A5.png` | (not viewed in detail) | | |
-| `../FBI-Photo-A6.png` | (not viewed in detail) | | |
-| `../FBI-Photo-A7.png` | White-hot | Bright round object center | Most "Mosul orb"-like of the set |
-| `../FBI-Photo-A8.png` | (not viewed in detail) | | |
+| `FBI-Photo-A1.png` | Black-hot inferred | Small dark dot right of center | Background appears to be water |
+| `FBI-Photo-A2.png` | Black-hot | Dark spherical object centered | Terrain background |
+| `FBI-Photo-A3.png` | Black-hot | Dark spherical, slight right of center | Same general scene type as A2 |
+| `FBI-Photo-A4.png` | Black-hot | Dark spherical, slight right of crosshair | Same scene type |
+| `FBI-Photo-A5.png` | (not viewed in detail) | | |
+| `FBI-Photo-A6.png` | (not viewed in detail) | | |
+| `FBI-Photo-A7.png` | White-hot | Bright round object center | Most "Mosul orb"-like of the set |
+| `FBI-Photo-A8.png` | (not viewed in detail) | | |
 
 ### Series B (PDF, 24 frames)
 
 | File | Notes |
 | ---- | ----- |
-| `../FBI-Photo-B1.pdf` through `../FBI-Photo-B20.pdf` | Sensor frames, similar style to Series A |
-| `../FBI-Photo-B21.pdf` | Visible default timestamp 12/31/99 18:19:06 (likely system default, not actual capture time); small dark object near crosshair center |
-| `../FBI-Photo-B22.pdf` through `../FBI-Photo-B24.pdf` | Sensor frames |
+| `FBI-Photo-B1.pdf` through `FBI-Photo-B20.pdf` | Sensor frames, similar style to Series A |
+| `FBI-Photo-B21.pdf` | Visible default timestamp 12/31/99 18:19:06 (likely system default, not actual capture time); small dark object near crosshair center |
+| `FBI-Photo-B22.pdf` through `FBI-Photo-B24.pdf` | Sensor frames |
 
 ## Reading priority
 

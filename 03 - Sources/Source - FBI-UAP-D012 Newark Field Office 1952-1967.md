@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED (FBI field-office file)
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D012_Newark-Field-Office_1952-1967.pdf`
+source_document:: `FBI-UAP-D012_Newark-Field-Office_1952-1967.pdf`
 page_count:: 66
 date_of_document:: 1952-1967
 

@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D25-Mission-Report-Greece-January-2024.pdf`
+source_document:: `DOW-UAP-D25-Mission-Report-Greece-January-2024.pdf`
 date_of_document:: 2024-01
 
 ## Summary

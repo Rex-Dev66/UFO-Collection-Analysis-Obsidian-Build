@@ -13,7 +13,7 @@ original_classification:: SECRET - Security Information
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf`
+source_document:: `CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf`
 page_count:: 42
 date_of_document:: 1953-01 (report); transmitted 13 Mar 1953
 

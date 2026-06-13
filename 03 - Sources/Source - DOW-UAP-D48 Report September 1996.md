@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D48-Report-September-1996.pdf`
+source_document:: `DOW-UAP-D48-Report-September-1996.pdf`
 date_of_document:: 1996-09
 
 ## Summary

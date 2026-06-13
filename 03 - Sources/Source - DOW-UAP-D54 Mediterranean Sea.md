@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D54-Mission-Report-Mediterranean-Sea-NA.pdf`
+source_document:: `DOW-UAP-D54-Mission-Report-Mediterranean-Sea-NA.pdf`
 date_of_document:: 
 
 ## Summary

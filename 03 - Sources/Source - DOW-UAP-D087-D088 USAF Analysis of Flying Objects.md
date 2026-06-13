@@ -13,7 +13,7 @@ original_classification:: SECRET / RESTRICTED (struck through)
 current_classification:: UNCLASSIFIED (NND 917033)
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D087_US-AirForce_Analysis-of-Flying-Objects-in-the-US_1-100.pdf` (and D088, cases 101-172)
+source_document:: `DOW-UAP-D087_US-AirForce_Analysis-of-Flying-Objects-in-the-US_1-100.pdf` (and D088, cases 101-172)
 page_count:: 253 + 210
 date_of_document:: 1948-1949 (compiled)
 

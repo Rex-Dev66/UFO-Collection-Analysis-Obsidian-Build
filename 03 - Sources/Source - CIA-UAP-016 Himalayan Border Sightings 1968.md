@@ -13,7 +13,7 @@ original_classification:: SECRET (Information Report)
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../CIA-UAP-016-Sightings_of_Unidentified_Flying_Ojbects_in_Ladakh_Nepal_Sikkim_and_Bhutan.pdf`
+source_document:: `CIA-UAP-016-Sightings_of_Unidentified_Flying_Ojbects_in_Ladakh_Nepal_Sikkim_and_Bhutan.pdf`
 page_count:: 6
 date_of_document:: 1968 (DOI 19 Feb - 25 Mar 1968)
 

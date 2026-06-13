@@ -9,7 +9,7 @@ release_date: declassified per NND 852931
 
 original_classification:: SECRET
 current_classification:: DECLASSIFIED NND 852931
-file_path:: `../59_64634_711.5612[7-2852.pdf`
+source_document:: `59_64634_711.5612[7-2852.pdf`
 date_of_document:: 28 July 1952
 to:: Mr. Armstrong
 from:: F.H. (initials only; likely Foy Kohler or another senior State Department officer)

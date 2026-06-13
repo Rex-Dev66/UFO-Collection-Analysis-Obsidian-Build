@@ -13,7 +13,7 @@ release_date: 2026-03-27
 release_authority:: USCENTCOM
 release_date:: 2026-03-27
 mdr_number:: 
-file_path:: `../DOW-UAP-D58-Range-Fouler-Debrief-NA-October-2020.pdf`
+source_document:: `DOW-UAP-D58-Range-Fouler-Debrief-NA-October-2020.pdf`
 date_of_document:: 2020-10-27
 
 ## Summary

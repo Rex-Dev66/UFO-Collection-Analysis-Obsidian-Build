@@ -11,7 +11,7 @@ original_classification:: LIMITED OFFICIAL USE
 current_classification:: UNCLASSIFIED, Released in Full
 release_authority:: John Powers, Acting Director, U.S. Department of State
 release_date:: 2026-02-25
-file_path:: `../DOS-UAP-D1-Cable-1-Papua-New-Guinea-January-1985.pdf`
+source_document:: `DOS-UAP-D1-Cable-1-Papua-New-Guinea-January-1985.pdf`
 date_of_document:: 28 January 1985
 mrn:: 85 PORT MORESBY 199
 from:: AMEMBASSY PORT MORESBY

@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED (FBI field file)
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D013_WA-UFO-Investigation_1952-1960.pdf`
+source_document:: `FBI-UAP-D013_WA-UFO-Investigation_1952-1960.pdf`
 page_count:: 55
 date_of_document:: 1952-1960
 

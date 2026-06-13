@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D078_Notional-Map_Western-United-States-Event.pdf`
+source_document:: `DOW-UAP-D078_Notional-Map_Western-United-States-Event.pdf`
 page_count:: 1
 date_of_document:: 2023 event; map produced 2026
 

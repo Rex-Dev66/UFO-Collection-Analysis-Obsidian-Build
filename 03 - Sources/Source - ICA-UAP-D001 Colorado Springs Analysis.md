@@ -15,7 +15,7 @@ release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
 mdr_number::
 declassification_date_in_doc::
-file_path:: `../ICA-UAP-D001_Analysis_Colorado-Springs-UAP-Incident.pdf`
+source_document:: `ICA-UAP-D001_Analysis_Colorado-Springs-UAP-Incident.pdf`
 page_count:: 4
 date_of_document:: 2022 (post-event analysis)
 

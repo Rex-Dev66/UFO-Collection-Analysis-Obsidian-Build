@@ -13,7 +13,7 @@ original_classification:: SECRET - Security Information
 current_classification:: UNCLASSIFIED (NND 922015)
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953.pdf`
+source_document:: `DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953.pdf`
 page_count:: 7
 date_of_document:: 1953-03-13
 

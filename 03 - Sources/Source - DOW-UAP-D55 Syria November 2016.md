@@ -15,7 +15,7 @@ current_classification:: UNCLASSIFIED
 release_authority:: MG Richard A. Harrison, USCENTCOM Chief of Staff
 release_date:: 2026-03-20
 mdr_number:: USCENTCOM MDR 26-0038 to 26-0046
-file_path:: `../DOW-UAP-D55-Mission-Report-Syria-November-2016.pdf`
+source_document:: `DOW-UAP-D55-Mission-Report-Syria-November-2016.pdf`
 date_of_document:: 2016-11-18
 
 ## Summary

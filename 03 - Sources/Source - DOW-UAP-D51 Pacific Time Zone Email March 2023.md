@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D51-Email-Correspondence-Pacific-Time-Zone-March-2023.pdf`
+source_document:: `DOW-UAP-D51-Email-Correspondence-Pacific-Time-Zone-March-2023.pdf`
 date_of_document:: 2023-03
 
 ## Summary

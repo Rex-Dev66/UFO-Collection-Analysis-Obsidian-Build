@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D35-Mission-Report-Greece-October-2023.pdf`
+source_document:: `DOW-UAP-D35-Mission-Report-Greece-October-2023.pdf`
 date_of_document:: 2023-10
 
 ## Summary

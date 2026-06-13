@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D75-Mission-Report-Gulf-of-Aden-July-2024.pdf`
+source_document:: `DOW-UAP-D75-Mission-Report-Gulf-of-Aden-July-2024.pdf`
 date_of_document:: 2024-07
 
 ## Summary

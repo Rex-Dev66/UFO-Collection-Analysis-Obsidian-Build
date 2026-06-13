@@ -13,7 +13,7 @@ release_date: 2026-01-22
 release_authority:: USCENTCOM
 release_date:: 2026-01-22
 mdr_number:: 
-file_path:: `../DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020.pdf`
+source_document:: `DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020.pdf`
 date_of_document:: 2020-08-27
 
 ## Summary

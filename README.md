@@ -120,7 +120,15 @@ Source documents come from the rolling **PURSUE / WAR.GOV/UFO** public-release p
 
 Geographically the corpus is CENTCOM-heavy (~70%), with INDOPACOM, EUCOM/Mediterranean, and a historical/domestic remainder. See [`01 - Conventions and Templates/Collection Overview.md`](01%20-%20Conventions%20and%20Templates/Collection%20Overview.md) and `99 - Reference/Release Authorities` for full provenance.
 
-> The raw source PDFs and images are **not** included in this repository — this vault holds the analytical layer (structured notes and cross-references) built on top of them.
+### Tracing a note back to its source
+
+The raw source PDFs and images are **not** included in this repository — it holds the analytical layer (structured notes and cross-references) built on top of them. Instead, **every source note cites its original released document by filename** in a `source_document::` field, for example:
+
+```
+source_document:: `DOW-UAP-D12-Mission-Report-Iraq-May-2022.pdf`
+```
+
+That filename is the document's name as released by the originating agency, so you can identify the exact record a note is based on and locate it from the original public release (AARO / agency FOIA reading rooms / the PURSUE program). The image-index notes list their renderings the same way. These are provenance citations, not downloadable links — the documents themselves are obtained from the original release, not from this repo.
 
 ---
 

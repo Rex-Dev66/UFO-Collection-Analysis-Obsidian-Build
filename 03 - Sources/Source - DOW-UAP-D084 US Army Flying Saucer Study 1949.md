@@ -13,7 +13,7 @@ original_classification:: SECRET (struck through on declassification)
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DOW-UAP-D084_USArmy-Flying-Saucer-Study_1949.pdf`
+source_document:: `DOW-UAP-D084_USArmy-Flying-Saucer-Study_1949.pdf`
 page_count:: 25
 date_of_document:: 1949 (Feb-Apr)
 

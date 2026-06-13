@@ -12,7 +12,7 @@ classification_current: declassified
 original_classification:: SECRET (historical)
 current_classification:: declassified
 release_authority:: Department of War / AARO historical release
-file_path:: `../DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf`
+source_document:: `DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf`
 date_of_document:: 1949 (correspondence series)
 page_count:: 116
 

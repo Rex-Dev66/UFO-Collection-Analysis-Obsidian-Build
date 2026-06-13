@@ -11,12 +11,12 @@ type: source
 
 | File | Mission | Year | Inset feature |
 | ---- | ------- | ---- | -------------- |
-| `../NASA-UAP-VM1-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Small bluish vertical streak/column above lunar horizon (astronaut shadow in frame) |
-| `../NASA-UAP-VM2-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Two zoomed regions (Area 1, Area 2) showing very faint specks against the dark sky |
-| `../NASA-UAP-VM3-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Bright point-source object with red/white/blue colors above the lunar horizon, near solar corona (sun just below horizon) |
-| `../NASA-UAP-VM4-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Small golden/yellow speck in the dark sky |
-| `../NASA-UAP-VM5-Apollo-12-1969.jpg` | Apollo 12 | 1969 | (not viewed in detail) |
-| `../NASA-UAP-VM6-Apollo-17-1972.jpg` | Apollo 17 | 1972 | Cluster of 3-4 small bluish dots aligned, against Taurus-Littrow valley background |
+| `NASA-UAP-VM1-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Small bluish vertical streak/column above lunar horizon (astronaut shadow in frame) |
+| `NASA-UAP-VM2-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Two zoomed regions (Area 1, Area 2) showing very faint specks against the dark sky |
+| `NASA-UAP-VM3-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Bright point-source object with red/white/blue colors above the lunar horizon, near solar corona (sun just below horizon) |
+| `NASA-UAP-VM4-Apollo-12-1969.jpg` | Apollo 12 | 1969 | Small golden/yellow speck in the dark sky |
+| `NASA-UAP-VM5-Apollo-12-1969.jpg` | Apollo 12 | 1969 | (not viewed in detail) |
+| `NASA-UAP-VM6-Apollo-17-1972.jpg` | Apollo 17 | 1972 | Cluster of 3-4 small bluish dots aligned, against Taurus-Littrow valley background |
 
 ## Assessment
 

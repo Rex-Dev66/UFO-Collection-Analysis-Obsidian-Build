@@ -12,7 +12,7 @@ classification_current: UNCLASSIFIED
 original_classification:: UNCLASSIFIED//SENSITIVE
 current_classification:: UNCLASSIFIED
 release_authority:: U.S. Department of State (059UAP series)
-file_path:: `../059UAP00012.pdf`
+source_document:: `059UAP00012.pdf`
 date_of_document:: 2004-11-12
 cable_id:: 04 ASHGABAT 1028
 page_count:: 5

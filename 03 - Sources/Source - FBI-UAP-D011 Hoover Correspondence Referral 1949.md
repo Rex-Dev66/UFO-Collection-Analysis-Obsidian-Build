@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED (routine correspondence)
 current_classification:: UNCLASSIFIED; declassified per guide issued 24 Aug 2007
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf`
+source_document:: `FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf`
 page_count:: 4
 date_of_document:: 1949-01 / 1949-02
 

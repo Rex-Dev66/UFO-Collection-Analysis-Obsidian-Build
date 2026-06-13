@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../DoW-UAP-D079_Narrative-1_Western-US-Event.pdf` (and D080-D083)
+source_document:: `DoW-UAP-D079_Narrative-1_Western-US-Event.pdf` (and D080-D083)
 page_count:: 2 + 8 + 2 + 3 + 5 (five narratives)
 date_of_document:: October 2023 event; narratives compiled for AARO
 

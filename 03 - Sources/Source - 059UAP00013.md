@@ -12,7 +12,7 @@ classification_current: UNCLASSIFIED
 original_classification:: UNCLASSIFIED//SENSITIVE
 current_classification:: UNCLASSIFIED
 release_authority:: U.S. Department of State (059UAP series)
-file_path:: `../059UAP00013.pdf`
+source_document:: `059UAP00013.pdf`
 date_of_document:: 2023-09-16
 cable_id:: 23 MEXICO 2544
 page_count:: 7

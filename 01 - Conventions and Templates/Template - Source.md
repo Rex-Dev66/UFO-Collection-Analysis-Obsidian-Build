@@ -19,7 +19,7 @@ release_authority::
 release_date:: 
 mdr_number:: 
 declassification_date_in_doc:: 
-file_path:: `../Filename.pdf`
+source_document:: `Filename.pdf`
 page_count:: 
 date_of_document:: 
 

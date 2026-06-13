@@ -13,7 +13,7 @@ original_classification:: FBI OFFICIAL RECORD, electronic communications
 current_classification:: UNCLASSIFIED (b6/b7C redactions throughout)
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D004_FD-1057-02_Northeastern-US_2024.pdf` (through D008)
+source_document:: `FBI-UAP-D004_FD-1057-02_Northeastern-US_2024.pdf` (through D008)
 page_count:: 3 + 3 + 3 + 4 + 2
 date_of_document:: 2024 (Aug-Dec)
 

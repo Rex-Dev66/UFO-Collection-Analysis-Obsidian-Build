@@ -15,7 +15,7 @@ current_classification:: UNCLASSIFIED
 release_authority:: MG Richard A. Harrison, USCENTCOM Chief of Staff
 release_date:: 2026-03-27
 mdr_number:: USCENTCOM MDR 26-0038 to 26-0046
-file_path:: `../DOW-UAP-D56-Range-Fouler-Debrief-Arabian-Sea-August-2020.pdf`
+source_document:: `DOW-UAP-D56-Range-Fouler-Debrief-Arabian-Sea-August-2020.pdf`
 date_of_document:: 2020-08-24
 
 ## Summary

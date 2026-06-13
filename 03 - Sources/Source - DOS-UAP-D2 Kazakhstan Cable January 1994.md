@@ -11,7 +11,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: Released in Full
 release_authority:: John Powers, Acting Director, U.S. Department of State
 release_date:: 2026-02-25
-file_path:: `../DOS-UAP-D2-Cable-2-Kazakhstan-January-1994.pdf`
+source_document:: `DOS-UAP-D2-Cable-2-Kazakhstan-January-1994.pdf`
 date_of_document:: 31 January 1994
 mrn:: 94 DUSHANBE 259
 from:: AMEMBASSY DUSHANBE (Escudero)

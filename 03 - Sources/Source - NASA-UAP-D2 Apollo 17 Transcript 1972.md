@@ -7,7 +7,7 @@ type: source
 ## Document metadata
 
 original_classification:: UNCLASSIFIED
-file_path:: `../NASA-UAP-D2-Apollo-17-Transcript-1972.pdf`
+source_document:: `NASA-UAP-D2-Apollo-17-Transcript-1972.pdf`
 date_of_document:: December 1972
 
 ## Summary

@@ -7,7 +7,7 @@ type: source
 ## Document metadata
 
 original_classification:: SECRET//REL TO USA, FIN, SWE, FVEY, NATO
-file_path:: `../DOW-UAP-D8-Mission-Report-Djibouti-2025.pdf`
+source_document:: `DOW-UAP-D8-Mission-Report-Djibouti-2025.pdf`
 date_of_document:: 2025
 
 ## Summary

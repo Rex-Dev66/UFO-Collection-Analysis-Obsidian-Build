@@ -13,7 +13,7 @@ classification_current: cleared for open publication
 original_classification:: n/a (prepublication review record)
 current_classification:: cleared for open publication
 release_authority:: DoD Office of Prepublication and Security Review; recommended by MG Richard A. Harrison, USCENTCOM Chief of Staff
-file_path:: `../DOW-UAP-PR20.pdf`
+source_document:: `DOW-UAP-PR20.pdf`
 date_of_document:: 2025-10-17 (recommended 8 Oct 2025; cleared 10 Mar 2026)
 page_count:: 1
 

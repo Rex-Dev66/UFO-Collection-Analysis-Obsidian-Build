@@ -8,7 +8,7 @@ release_date: 2023-10
 ## Document metadata
 
 original_classification:: UNCLASSIFIED//LES
-file_path:: `../Serial 5 Redacted_Redacted.pdf`
+source_document:: `Serial 5 Redacted_Redacted.pdf`
 date_of_document:: October 2023 (interview date)
 date_of_event:: September 2023
 form:: FD-302 (Rev. 5-8-10)

@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D74-Mission-Report-Syria-November-2023.pdf`
+source_document:: `DOW-UAP-D74-Mission-Report-Syria-November-2023.pdf`
 date_of_document:: 2023-11
 
 ## Summary

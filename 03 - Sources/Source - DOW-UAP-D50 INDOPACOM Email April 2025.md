@@ -9,7 +9,7 @@ type: source
 original_classification:: SECRET//NOFORN
 current_classification:: tearlines released at UNCLASSIFIED level
 release_authority:: Office of the Undersecretary of Defense for Intelligence and Security
-file_path:: `../DOW-UAP-D50-Email-Correspondence-INDOPACOM-April-2025.pdf`
+source_document:: `DOW-UAP-D50-Email-Correspondence-INDOPACOM-April-2025.pdf`
 date_of_document:: April 2025
 
 ## Summary

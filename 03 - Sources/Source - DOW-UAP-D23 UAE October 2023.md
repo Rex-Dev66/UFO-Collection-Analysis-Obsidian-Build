@@ -12,7 +12,7 @@ type: source
 release_authority:: USCENTCOM
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023.pdf`
+source_document:: `DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023.pdf`
 date_of_document:: 2023-10
 
 ## Summary

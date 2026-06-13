@@ -13,7 +13,7 @@ original_classification:: SECRET//NOFORN
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../CIA-UAP-017_Placement_on_High_Alert_Due_to_Perceived_Aggressive_Foreign_Posturing.pdf`
+source_document:: `CIA-UAP-017_Placement_on_High_Alert_Due_to_Perceived_Aggressive_Foreign_Posturing.pdf`
 page_count:: 3
 date_of_document:: 2008-07-03 (distributed); event 2 Jul 2008
 

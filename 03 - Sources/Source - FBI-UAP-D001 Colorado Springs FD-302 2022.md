@@ -13,7 +13,7 @@ original_classification:: FBI OFFICIAL RECORD, agency-loan dissemination caveat
 current_classification:: UNCLASSIFIED (b6/b7C personal-privacy redactions)
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D001_FD-302_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
+source_document:: `FBI-UAP-D001_FD-302_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
 page_count:: 2
 date_of_document:: 2025-03 (interview); drafted 2025-04
 

@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D42-Range-Fouler-Debrief-Japan-2023.pdf`
+source_document:: `DOW-UAP-D42-Range-Fouler-Debrief-Japan-2023.pdf`
 date_of_document:: 2023
 
 ## Summary

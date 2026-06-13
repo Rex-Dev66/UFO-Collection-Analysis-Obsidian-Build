@@ -12,7 +12,7 @@ type: source
 release_authority:: 
 release_date:: 
 mdr_number:: 
-file_path:: `../DOW-UAP-D49-Launch-Summary-February-2000.pdf`
+source_document:: `DOW-UAP-D49-Launch-Summary-February-2000.pdf`
 date_of_document:: 2000-02
 
 ## Summary

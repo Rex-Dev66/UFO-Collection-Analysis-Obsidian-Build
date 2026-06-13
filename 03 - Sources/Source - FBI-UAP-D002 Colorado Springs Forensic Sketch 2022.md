@@ -13,7 +13,7 @@ original_classification:: FBI OFFICIAL RECORD, electronic communication
 current_classification:: UNCLASSIFIED (b6/b7C redactions)
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../FBI-UAP-D002_FD-1057_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
+source_document:: `FBI-UAP-D002_FD-1057_Unresolved-UAP-Report_ColoradoSprings_2022.pdf`
 page_count:: 2
 date_of_document:: 2024-07 (forensic sketch interview)
 

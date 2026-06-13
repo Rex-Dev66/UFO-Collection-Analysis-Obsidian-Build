@@ -13,7 +13,7 @@ original_classification:: UNCLASSIFIED
 current_classification:: UNCLASSIFIED
 release_authority:: Department of War / PURSUE (Release 03, 12 Jun 2026)
 release_date:: 2026-06-12
-file_path:: `../USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf`
+source_document:: `USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf`
 page_count:: 86
 date_of_document:: 1998
 

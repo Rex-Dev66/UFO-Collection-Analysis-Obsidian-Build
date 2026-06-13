@@ -9,7 +9,7 @@ mdr_number: MDR 25-0094 thru 25-0099
 ## Document metadata
 
 original_classification:: SECRET
-file_path:: `../DOW-UAP-D4-Mission-Report-Arabian-Gulf-2020.pdf`
+source_document:: `DOW-UAP-D4-Mission-Report-Arabian-Gulf-2020.pdf`
 date_of_document:: 2020
 
 ## Summary

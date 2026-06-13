@@ -5,7 +5,7 @@ type: reference
 ---
 
 > [!SUMMARY]
-> The source PDFs and images live in the parent folder `Collection/`. This vault is `Collection/UFO-Collection-Analysis/`. All wikilinks here point to the analytical notes; raw file references use markdown links to `../filename.pdf`.
+> This vault holds the analytical notes. The raw source PDFs and images are **not** bundled with it — instead, each source note cites its original released document by filename in a `source_document::` field, so you can identify and trace the exact document. Wikilinks (`[[...]]`) point only to analytical notes, never to raw files.
 
 ## Counts
 

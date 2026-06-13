@@ -13,7 +13,7 @@ release_date: 2026-01-22
 release_authority:: USCENTCOM
 release_date:: 2026-01-22
 mdr_number:: 
-file_path:: `../DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020.pdf`
+source_document:: `DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020.pdf`
 date_of_document:: 2020-09-16
 
 ## Summary

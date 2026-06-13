@@ -19,7 +19,7 @@ aor:: centcom
 country:: Strait of Hormuz
 location:: [[Location - Strait of Hormuz]]
 mgrs:: 39RVM51...70...
-platform:: MQ-9 Reaper class (ANDAS4 sensor)
+platform:: [[Platform - MQ-9 Reaper]]
 unit:: [[Unit - 482 ATKS]]
 mission_type:: AREC (Armed Reconnaissance)
 operation:: redacted (NAVCENT support)

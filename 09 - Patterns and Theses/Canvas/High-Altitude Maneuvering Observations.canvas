@@ -1,32 +1,32 @@
 {
-  "nodes": [
-    {"id":"thesis","type":"file","file":"09 - Patterns and Theses/Thesis - High-Altitude Maneuvering Observations Have Unusual Evidentiary Weight.md","x":-200,"y":-720,"width":540,"height":280,"color":"1"},
-    {"id":"legend","type":"text","text":"## Altitude as an evidentiary filter\n\nObjects ==maneuvering well above the service ceiling of known manned aircraft== carry unusual evidentiary weight, because conventional explanations are sharply constrained at those altitudes.\n\nService ceilings for reference:\n- SR-71: ~85,000 ft\n- U-2: ~78,000 ft\n\nMost candidate objects (balloons, satellites, debris) do not maneuver in circles, corkscrews, or 90-degree turns. An observation at FL250 has many explanations; one credibly at FL900-FL1000 has very few.\n\nConfidence: MODERATE. The logic is sound; practical use is limited by altitude-estimation error in non-instrumented observations.","x":-1400,"y":-720,"width":660,"height":560,"color":"2"},
-    {"id":"band-low","type":"text","text":"## Below ~70,000 ft\nCandidates multiply","x":-980,"y":-80,"width":420,"height":120,"color":"3"},
-    {"id":"band-high","type":"text","text":"## Above ~80,000 ft\nCandidates shrink","x":-460,"y":-80,"width":420,"height":120,"color":"3"},
-    {"id":"candidates-low","type":"text","text":"## Many candidates below 70,000 ft\n\n- Commercial and military aircraft\n- Drones and UAS\n- Weather and research balloons\n- Atmospheric / optical phenomena\n- Sensor artifacts\n\nAt these altitudes a maneuvering light is weakly diagnostic; the candidate set is large.","x":-980,"y":120,"width":420,"height":320,"color":"6"},
-    {"id":"inc-kaz","type":"file","file":"02 - Incidents/Incident - 1994-01-27 Kazakhstan 747SP.md","x":-460,"y":120,"width":420,"height":260,"color":"5"},
-    {"id":"src-kaz","type":"file","file":"03 - Sources/Source - DOS-UAP-D2 Kazakhstan Cable January 1994.md","x":-460,"y":420,"width":420,"height":180,"color":"7"},
-    {"id":"witness","type":"file","file":"07 - Witnesses/Witness - Captain Ed Rhodes and Tajik Air Crew.md","x":-460,"y":640,"width":420,"height":180,"color":"4"},
-    {"id":"loc-kaz","type":"file","file":"04 - Locations/Location - Kazakhstan.md","x":-980,"y":480,"width":420,"height":160,"color":"4"},
-    {"id":"plat-747","type":"file","file":"05 - Platforms and Units/Platform - Boeing 747SP Civilian.md","x":-980,"y":680,"width":420,"height":160,"color":"4"},
-    {"id":"quote","type":"text","text":"## The Kazakhstan observation (1994)\n\nThree American (ex-PanAm) pilots, Boeing 747SP at FL410 over Kazakhstan, 40-minute observation.\n\n> \"...IT MANEUVERED IN CIRCLES, CORKSCREWS AND MADE 90-DEGREE TURNS AT RAPID RATES OF SPEED AND UNDER VERY HIGH G'S.\"\n\nForty-five minutes later, at sunrise, the same aircraft flew UNDER the contrails the object left. Rhodes estimated the contrail altitude at ==~100,000 ft==, noting too little air/moisture exists at that height for conventional contrails. The crew proposed and rejected the meteor hypothesis from experience.","x":100,"y":120,"width":440,"height":340,"color":"6"},
-    {"id":"candidate-shrink","type":"text","text":"## Above 80,000 ft the candidate set shrinks\n\n- ==Balloons== drift; they do not fly circles and corkscrews\n- ==Satellites / re-entry== follow orbital or ballistic paths; no powered maneuver\n- ==Upper-stage debris== is passive and ballistic\n- ==High-altitude reconnaissance== is limited to a few well-cataloged types\n\nManeuvering motion at this altitude is anomalous against every candidate, which is exactly why it carries weight.","x":100,"y":490,"width":440,"height":350,"color":"6"},
-    {"id":"caveat","type":"text","text":"## Caveat: altitude estimation is unreliable\n\nThe ~100,000 ft figure was estimated by a 747SP crew looking up, which carries large error bars. Sensor artifacts can also mimic maneuvering when the underlying object is stationary or simpler in motion.\n\nThe filter is only as strong as the altitude measurement behind it.","x":640,"y":120,"width":440,"height":300,"color":"3"},
-    {"id":"implication","type":"text","text":"## Implication\n\nWhen evaluating future UAP observations, ==altitude is a powerful filter==.\n\nPrioritize observations that include ==instrumented altitude==: radar altimeter, triangulation, or multi-sensor fusion. Treat single-observer visual altitude estimates as indicative, not decisive.\n\nA credibly instrumented high-altitude maneuvering track would be among the most evidentially significant observations possible.","x":640,"y":450,"width":440,"height":390,"color":"6"}
-  ],
-  "edges": [
-    {"id":"e1","fromNode":"thesis","fromSide":"bottom","toNode":"band-low","toSide":"top"},
-    {"id":"e2","fromNode":"thesis","fromSide":"bottom","toNode":"band-high","toSide":"top"},
-    {"id":"e3","fromNode":"band-low","fromSide":"bottom","toNode":"candidates-low","toSide":"top"},
-    {"id":"e4","fromNode":"band-high","fromSide":"bottom","toNode":"inc-kaz","toSide":"top"},
-    {"id":"e5","fromNode":"inc-kaz","fromSide":"bottom","toNode":"src-kaz","toSide":"top"},
-    {"id":"e6","fromNode":"src-kaz","fromSide":"bottom","toNode":"witness","toSide":"top"},
-    {"id":"e7","fromNode":"inc-kaz","fromSide":"left","toNode":"loc-kaz","toSide":"right"},
-    {"id":"e8","fromNode":"loc-kaz","fromSide":"bottom","toNode":"plat-747","toSide":"top"},
-    {"id":"e9","fromNode":"inc-kaz","fromSide":"right","toNode":"quote","toSide":"left"},
-    {"id":"e10","fromNode":"quote","fromSide":"bottom","toNode":"candidate-shrink","toSide":"top"},
-    {"id":"e11","fromNode":"candidate-shrink","fromSide":"right","toNode":"implication","toSide":"left"},
-    {"id":"e12","fromNode":"caveat","fromSide":"bottom","toNode":"implication","toSide":"top"}
-  ]
+	"nodes":[
+		{"id":"thesis","type":"file","file":"09 - Patterns and Theses/Thesis - High-Altitude Maneuvering Observations Have Unusual Evidentiary Weight.md","x":-200,"y":-720,"width":540,"height":280,"color":"1"},
+		{"id":"legend","type":"text","text":"## Altitude as an evidentiary filter\n\nObjects ==maneuvering well above the service ceiling of known manned aircraft== carry unusual evidentiary weight, because conventional explanations are sharply constrained at those altitudes.\n\nService ceilings for reference:\n- SR-71: ~85,000 ft\n- U-2: ~78,000 ft\n\nMost candidate objects (balloons, satellites, debris) do not maneuver in circles, corkscrews, or 90-degree turns. An observation at FL250 has many explanations; one credibly at FL900-FL1000 has very few.\n\nConfidence: MODERATE. The logic is sound; practical use is limited by altitude-estimation error in non-instrumented observations.","x":-1400,"y":-720,"width":660,"height":560,"color":"2"},
+		{"id":"band-low","type":"text","text":"## Below ~70,000 ft\nCandidates multiply","x":-980,"y":-80,"width":420,"height":120,"color":"3"},
+		{"id":"band-high","type":"text","text":"## Above ~80,000 ft\nCandidates shrink","x":-460,"y":-80,"width":420,"height":120,"color":"3"},
+		{"id":"candidates-low","type":"text","text":"## Many candidates below 70,000 ft\n\n- Commercial and military aircraft\n- Drones and UAS\n- Weather and research balloons\n- Atmospheric / optical phenomena\n- Sensor artifacts\n\nAt these altitudes a maneuvering light is weakly diagnostic; the candidate set is large.","x":-980,"y":120,"width":420,"height":320,"color":"6"},
+		{"id":"inc-kaz","type":"file","file":"02 - Incidents/Incident - 1994-01-27 Kazakhstan 747SP.md","x":-460,"y":120,"width":420,"height":260,"color":"5"},
+		{"id":"src-kaz","type":"file","file":"03 - Sources/Source - DOS-UAP-D2 Kazakhstan Cable January 1994.md","x":-460,"y":420,"width":420,"height":180,"color":"7"},
+		{"id":"witness","type":"file","file":"07 - Witnesses/Witness - Captain Ed Rhodes and Tajik Air Crew.md","x":-460,"y":640,"width":420,"height":180,"color":"4"},
+		{"id":"loc-kaz","type":"file","file":"04 - Locations/Location - Kazakhstan.md","x":-980,"y":480,"width":420,"height":160,"color":"4"},
+		{"id":"plat-747","type":"file","file":"05 - Platforms and Units/Platform - Boeing 747SP Civilian.md","x":-980,"y":680,"width":420,"height":160,"color":"4"},
+		{"id":"quote","type":"text","text":"## The Kazakhstan observation (1994)\n\nThree American (ex-PanAm) pilots, Boeing 747SP at FL410 over Kazakhstan, 40-minute observation.\n\n> \"...IT MANEUVERED IN CIRCLES, CORKSCREWS AND MADE 90-DEGREE TURNS AT RAPID RATES OF SPEED AND UNDER VERY HIGH G'S.\"\n\nForty-five minutes later, at sunrise, the same aircraft flew UNDER the contrails the object left. Rhodes estimated the contrail altitude at ==~100,000 ft==, noting too little air/moisture exists at that height for conventional contrails. The crew proposed and rejected the meteor hypothesis from experience.","x":100,"y":120,"width":440,"height":340,"color":"6"},
+		{"id":"candidate-shrink","type":"text","text":"## Above 80,000 ft the candidate set shrinks\n\n- ==Balloons== drift; they do not fly circles and corkscrews\n- ==Satellites / re-entry== follow orbital or ballistic paths; no powered maneuver\n- ==Upper-stage debris== is passive and ballistic\n- ==High-altitude reconnaissance== is limited to a few well-cataloged types\n\nManeuvering motion at this altitude is anomalous against every candidate, which is exactly why it carries weight.","x":100,"y":490,"width":440,"height":350,"color":"6"},
+		{"id":"caveat","type":"text","text":"## Caveat: altitude estimation is unreliable\n\nThe ~100,000 ft figure was estimated by a 747SP crew looking up, which carries large error bars. Sensor artifacts can also mimic maneuvering when the underlying object is stationary or simpler in motion.\n\nThe filter is only as strong as the altitude measurement behind it.","x":640,"y":120,"width":440,"height":300,"color":"3"},
+		{"id":"implication","type":"text","text":"## Implication\n\nWhen evaluating future UAP observations, ==altitude is a powerful filter==.\n\nPrioritize observations that include ==instrumented altitude==: radar altimeter, triangulation, or multi-sensor fusion. Treat single-observer visual altitude estimates as indicative, not decisive.\n\nA credibly instrumented high-altitude maneuvering track would be among the most evidentially significant observations possible.","x":640,"y":450,"width":440,"height":390,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"thesis","fromSide":"bottom","toNode":"band-low","toSide":"top"},
+		{"id":"e2","fromNode":"thesis","fromSide":"bottom","toNode":"band-high","toSide":"top"},
+		{"id":"e3","fromNode":"band-low","fromSide":"bottom","toNode":"candidates-low","toSide":"top"},
+		{"id":"e4","fromNode":"band-high","fromSide":"bottom","toNode":"inc-kaz","toSide":"top"},
+		{"id":"e5","fromNode":"inc-kaz","fromSide":"bottom","toNode":"src-kaz","toSide":"top"},
+		{"id":"e6","fromNode":"src-kaz","fromSide":"bottom","toNode":"witness","toSide":"top"},
+		{"id":"e7","fromNode":"inc-kaz","fromSide":"left","toNode":"loc-kaz","toSide":"right"},
+		{"id":"e8","fromNode":"loc-kaz","fromSide":"bottom","toNode":"plat-747","toSide":"top"},
+		{"id":"e9","fromNode":"inc-kaz","fromSide":"right","toNode":"quote","toSide":"left"},
+		{"id":"e10","fromNode":"quote","fromSide":"bottom","toNode":"candidate-shrink","toSide":"top"},
+		{"id":"e11","fromNode":"candidate-shrink","fromSide":"right","toNode":"implication","toSide":"left"},
+		{"id":"e12","fromNode":"caveat","fromSide":"bottom","toNode":"implication","toSide":"top"}
+	]
 }

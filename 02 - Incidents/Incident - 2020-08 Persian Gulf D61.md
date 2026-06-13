@@ -19,7 +19,7 @@ aor:: centcom
 country:: Persian Gulf (Iranian coast IVO)
 location:: [[Location - Persian Gulf]]
 mgrs:: 39RVM81... (observation location)
-platform:: MQ-9 Reaper class (ANDAS4 sensor)
+platform:: [[Platform - MQ-9 Reaper]]
 unit:: [[Unit - 482 ATKS]]
 mission_type:: AREC (Armed Reconnaissance)
 operation:: redacted (NAVCENT support)

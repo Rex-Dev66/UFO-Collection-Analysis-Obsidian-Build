@@ -1,209 +1,29 @@
 {
-  "nodes": [
-    {
-      "id": "thesis",
-      "type": "file",
-      "file": "09 - Patterns and Theses/Thesis - Active EW Co-occurrence with UAP Observations.md",
-      "x": -200,
-      "y": -500,
-      "width": 500,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "d58",
-      "type": "file",
-      "file": "02 - Incidents/Incident - 2020-10 D58 Range Fouler.md",
-      "x": -700,
-      "y": 100,
-      "width": 450,
-      "height": 280,
-      "color": "5"
-    },
-    {
-      "id": "d62",
-      "type": "file",
-      "file": "02 - Incidents/Incident - 2020-09 Strait of Hormuz D62.md",
-      "x": -100,
-      "y": 100,
-      "width": 450,
-      "height": 280,
-      "color": "5"
-    },
-    {
-      "id": "d19",
-      "type": "file",
-      "file": "02 - Incidents/Incident - 2023-02-21 Shaddadi F-15E.md",
-      "x": 500,
-      "y": 100,
-      "width": 450,
-      "height": 280,
-      "color": "5"
-    },
-    {
-      "id": "d58-detail",
-      "type": "text",
-      "text": "## D58 (Oct 2020)\n\n- 77 EFS F-16 DCA\n- 2 metallic objects, one circling the other\n- Stable radar track + visual tally\n- ==Noise jamming received== on F-16 radar\n- Objects gone in 1/30 second\n- Could not close within 16.9 NM\n\n==Strongest case for causal linkage.== The noise jamming was on the same display showing the contacts.",
-      "x": -700,
-      "y": 450,
-      "width": 450,
-      "height": 340,
-      "color": "3"
-    },
-    {
-      "id": "d62-detail",
-      "type": "text",
-      "text": "## D62 (Sep 2020)\n\n- 482 ATKS MQ-9 AREC\n- 3 Iranian air defense guardcalls\n- ==EMI #1: LOST LINK 11 min==\n- ==EMI #2: LOST LINK 27 min==\n- Observed Iranian SA-5 launcher on Abu Musa\n- Observed 2 Houdong missile boats\n- UAP observation 3 hr after last EMI\n\nCauses likely Iranian, not UAP.",
-      "x": -100,
-      "y": 450,
-      "width": 450,
-      "height": 340,
-      "color": "3"
-    },
-    {
-      "id": "d19-detail",
-      "type": "text",
-      "text": "## D19 Shaddadi (Feb 2023)\n\n- 389 EFS F-15E DCA\n- ==MFT radar jamming on APG-82==\n- 8.8-9.9 GHz, 3 min duration\n- Jamming assessed as Turkish X-band ground emitter\n- ==1 minute later==: 3 UAPs at FL240\n- No radar return from UAPs\n\nClean case where EW has explicit non-UAP attribution.",
-      "x": 500,
-      "y": 450,
-      "width": 450,
-      "height": 340,
-      "color": "3"
-    },
-    {
-      "id": "sensor-apg",
-      "type": "file",
-      "file": "06 - Sensors and Equipment/Sensor - APG-82 Radar.md",
-      "x": 500,
-      "y": 850,
-      "width": 350,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "sensor-atflir",
-      "type": "file",
-      "file": "06 - Sensors and Equipment/Sensor - ATFLIR.md",
-      "x": -700,
-      "y": 850,
-      "width": 350,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "unit-482",
-      "type": "file",
-      "file": "05 - Platforms and Units/Unit - 482 ATKS.md",
-      "x": -100,
-      "y": 850,
-      "width": 350,
-      "height": 180,
-      "color": "7"
-    },
-    {
-      "id": "unit-389",
-      "type": "file",
-      "file": "05 - Platforms and Units/Unit - 389 EFS.md",
-      "x": 500,
-      "y": 1080,
-      "width": 350,
-      "height": 180,
-      "color": "7"
-    },
-    {
-      "id": "interp",
-      "type": "text",
-      "text": "## Two interpretations\n\n==(A) Coincidence==\nU.S. ISR concentrates where adversaries field EW and UAS together. Both phenomena share the same operating environment.\n\n==(B) Causal==\nThe UAPs themselves are emitting electronic countermeasures or their controllers are. D58 (noise jamming on the same display as the contact) is the only case that points clearly toward B.\n\nNeither interpretation is decisively supported by the collection.",
-      "x": -1520,
-      "y": 240,
-      "width": 650,
-      "height": 380,
-      "color": "6"
-    },
-    {
-      "id": "legend",
-      "type": "text",
-      "text": "## Active Electronic Warfare + UAP\n\nThree incidents in the collection show ==EMI or radar jamming temporally co-occurring with UAP observations== on the same platform and sortie.\n\nRed lines: UAP-observation events.\nYellow lines: EW events same mission.\n\nThe central question is whether the EW and UAP are independent (both deployed by adversary forces in the same airspace) or causally linked (the UAPs themselves were emitting).\n\nThe D58 case is the strongest for causal linkage; the Shaddadi case has an explicit non-UAP attribution for the EW (Turkish ground jammer).",
-      "x": -1520,
-      "y": -480,
-      "width": 650,
-      "height": 580,
-      "color": "2"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "thesis",
-      "fromSide": "bottom",
-      "toNode": "d58",
-      "toSide": "top",
-      "color": "5"
-    },
-    {
-      "id": "e2",
-      "fromNode": "thesis",
-      "fromSide": "bottom",
-      "toNode": "d62",
-      "toSide": "top",
-      "color": "5"
-    },
-    {
-      "id": "e3",
-      "fromNode": "thesis",
-      "fromSide": "bottom",
-      "toNode": "d19",
-      "toSide": "top",
-      "color": "5"
-    },
-    {
-      "id": "e4",
-      "fromNode": "d58",
-      "fromSide": "bottom",
-      "toNode": "d58-detail",
-      "toSide": "top"
-    },
-    {
-      "id": "e5",
-      "fromNode": "d62",
-      "fromSide": "bottom",
-      "toNode": "d62-detail",
-      "toSide": "top"
-    },
-    {
-      "id": "e6",
-      "fromNode": "d19",
-      "fromSide": "bottom",
-      "toNode": "d19-detail",
-      "toSide": "top"
-    },
-    {
-      "id": "e7",
-      "fromNode": "d58-detail",
-      "fromSide": "bottom",
-      "toNode": "sensor-atflir",
-      "toSide": "top"
-    },
-    {
-      "id": "e8",
-      "fromNode": "d62-detail",
-      "fromSide": "bottom",
-      "toNode": "unit-482",
-      "toSide": "top"
-    },
-    {
-      "id": "e9",
-      "fromNode": "d19-detail",
-      "fromSide": "bottom",
-      "toNode": "sensor-apg",
-      "toSide": "top"
-    },
-    {
-      "id": "e10",
-      "fromNode": "sensor-apg",
-      "fromSide": "bottom",
-      "toNode": "unit-389",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"thesis","type":"file","file":"09 - Patterns and Theses/Thesis - Active EW Co-occurrence with UAP Observations.md","x":-200,"y":-500,"width":500,"height":280,"color":"1"},
+		{"id":"d58","type":"file","file":"02 - Incidents/Incident - 2020-10 D58 Range Fouler.md","x":-700,"y":100,"width":450,"height":280,"color":"5"},
+		{"id":"d62","type":"file","file":"02 - Incidents/Incident - 2020-09 Strait of Hormuz D62.md","x":-100,"y":100,"width":450,"height":280,"color":"5"},
+		{"id":"d19","type":"file","file":"02 - Incidents/Incident - 2023-02-21 Shaddadi F-15E.md","x":500,"y":100,"width":450,"height":280,"color":"5"},
+		{"id":"d58-detail","type":"text","text":"## D58 (Oct 2020)\n\n- 77 EFS F-16 DCA\n- 2 metallic objects, one circling the other\n- Stable radar track + visual tally\n- ==Noise jamming received== on F-16 radar\n- Objects gone in 1/30 second\n- Could not close within 16.9 NM\n\n==Strongest case for causal linkage.== The noise jamming was on the same display showing the contacts.","x":-700,"y":450,"width":450,"height":340,"color":"3"},
+		{"id":"d62-detail","type":"text","text":"## D62 (Sep 2020)\n\n- 482 ATKS MQ-9 AREC\n- 3 Iranian air defense guardcalls\n- ==EMI #1: LOST LINK 11 min==\n- ==EMI #2: LOST LINK 27 min==\n- Observed Iranian SA-5 launcher on Abu Musa\n- Observed 2 Houdong missile boats\n- UAP observation 3 hr after last EMI\n\nCauses likely Iranian, not UAP.","x":-100,"y":450,"width":450,"height":340,"color":"3"},
+		{"id":"d19-detail","type":"text","text":"## D19 Shaddadi (Feb 2023)\n\n- 389 EFS F-15E DCA\n- ==MFT radar jamming on APG-82==\n- 8.8-9.9 GHz, 3 min duration\n- Jamming assessed as Turkish X-band ground emitter\n- ==1 minute later==: 3 UAPs at FL240\n- No radar return from UAPs\n\nClean case where EW has explicit non-UAP attribution.","x":500,"y":450,"width":450,"height":340,"color":"3"},
+		{"id":"sensor-apg","type":"file","file":"06 - Sensors and Equipment/Sensor - APG-82 Radar.md","x":500,"y":850,"width":350,"height":180,"color":"4"},
+		{"id":"sensor-atflir","type":"file","file":"06 - Sensors and Equipment/Sensor - ATFLIR.md","x":-700,"y":850,"width":350,"height":180,"color":"4"},
+		{"id":"unit-482","type":"file","file":"05 - Platforms and Units/Unit - 482 ATKS.md","x":-100,"y":850,"width":350,"height":180,"color":"7"},
+		{"id":"unit-389","type":"file","file":"05 - Platforms and Units/Unit - 389 EFS.md","x":500,"y":1080,"width":350,"height":180,"color":"7"},
+		{"id":"interp","type":"text","text":"## Two interpretations\n\n==(A) Coincidence==\nU.S. ISR concentrates where adversaries field EW and UAS together. Both phenomena share the same operating environment.\n\n==(B) Causal==\nThe UAPs themselves are emitting electronic countermeasures or their controllers are. D58 (noise jamming on the same display as the contact) is the only case that points clearly toward B.\n\nNeither interpretation is decisively supported by the collection.","x":-1520,"y":240,"width":650,"height":380,"color":"6"},
+		{"id":"legend","type":"text","text":"## Active Electronic Warfare + UAP\n\nThree incidents in the collection show ==EMI or radar jamming temporally co-occurring with UAP observations== on the same platform and sortie.\n\nRed lines: UAP-observation events.\nYellow lines: EW events same mission.\n\nThe central question is whether the EW and UAP are independent (both deployed by adversary forces in the same airspace) or causally linked (the UAPs themselves were emitting).\n\nThe D58 case is the strongest for causal linkage; the Shaddadi case has an explicit non-UAP attribution for the EW (Turkish ground jammer).","x":-1520,"y":-480,"width":650,"height":580,"color":"2"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"thesis","fromSide":"bottom","toNode":"d58","toSide":"top","color":"5"},
+		{"id":"e2","fromNode":"thesis","fromSide":"bottom","toNode":"d62","toSide":"top","color":"5"},
+		{"id":"e3","fromNode":"thesis","fromSide":"bottom","toNode":"d19","toSide":"top","color":"5"},
+		{"id":"e4","fromNode":"d58","fromSide":"bottom","toNode":"d58-detail","toSide":"top"},
+		{"id":"e5","fromNode":"d62","fromSide":"bottom","toNode":"d62-detail","toSide":"top"},
+		{"id":"e6","fromNode":"d19","fromSide":"bottom","toNode":"d19-detail","toSide":"top"},
+		{"id":"e7","fromNode":"d58-detail","fromSide":"bottom","toNode":"sensor-atflir","toSide":"top"},
+		{"id":"e8","fromNode":"d62-detail","fromSide":"bottom","toNode":"unit-482","toSide":"top"},
+		{"id":"e9","fromNode":"d19-detail","fromSide":"bottom","toNode":"sensor-apg","toSide":"top"},
+		{"id":"e10","fromNode":"sensor-apg","fromSide":"bottom","toNode":"unit-389","toSide":"top"}
+	]
 }

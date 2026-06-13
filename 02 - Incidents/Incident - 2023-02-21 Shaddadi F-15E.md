@@ -20,7 +20,7 @@ country:: Syria
 location:: [[Location - Shaddadi]]
 mgrs:: 
 platform:: [[Platform - F-15E Strike Eagle]]
-unit:: [[Unit - 389 EFS]]
+unit:: [[Unit - 389 EFS]], [[Unit - 332 AEW]]
 mission_type:: DCA
 operation:: Operation Inherent Resolve
 sensor:: [[Sensor - APG-82 Radar]], [[Sensor - Sniper-SE]]

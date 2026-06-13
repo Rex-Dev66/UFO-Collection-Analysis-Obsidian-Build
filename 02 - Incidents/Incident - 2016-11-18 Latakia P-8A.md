@@ -17,7 +17,7 @@ date_event:: 2016-11-18
 time_z:: 1310
 aor:: centcom
 country:: Eastern Mediterranean / Syria
-location:: [[Location - Eastern Mediterranean]]
+location:: [[Location - Eastern Mediterranean]], [[Location - Latakia]]
 mgrs:: 
 platform:: [[Platform - P-8A Poseidon]]
 unit:: [[Unit - CTG 67.1]]

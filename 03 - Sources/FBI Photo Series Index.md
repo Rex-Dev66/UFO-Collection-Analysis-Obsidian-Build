@@ -42,3 +42,31 @@ The 32 stills are likely individual frames from the 28 `DOD_111XXXXXX.mp4` video
 
 - Phenomenology: [[Phenom - Round and White IR-Significant]]
 - Sensor: [[Sensor - EO IR]] | [[Sensor - ATFLIR]] (inferred)
+
+## Frames (Series A)
+
+The 8 Series A PNG frames catalogued above. (Series B are PDF frames and aren't embedded here.)
+
+**A1**
+![FBI-Photo-A1](../attachments/FBI-Photo-A1.png)
+
+**A2**
+![FBI-Photo-A2](../attachments/FBI-Photo-A2.png)
+
+**A3**
+![FBI-Photo-A3](../attachments/FBI-Photo-A3.png)
+
+**A4**
+![FBI-Photo-A4](../attachments/FBI-Photo-A4.png)
+
+**A5**
+![FBI-Photo-A5](../attachments/FBI-Photo-A5.png)
+
+**A6**
+![FBI-Photo-A6](../attachments/FBI-Photo-A6.png)
+
+**A7**
+![FBI-Photo-A7](../attachments/FBI-Photo-A7.png)
+
+**A8**
+![FBI-Photo-A8](../attachments/FBI-Photo-A8.png)

@@ -36,3 +36,39 @@ Incident 2 renderings (D016-D020, D022, D023): two agent silhouettes (outlined w
 - Location: [[Location - Western United States]]
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Witnesses: [[Witness - Western US Federal Agents]]
+
+## Source images
+
+### Incident 1
+
+**D014 (1-1)**
+![FBI-UAP-D014](../attachments/FBI-UAP-D014_Digital-Rendering_Incident-1-1_Western-US-Event_2023.jpg)
+
+**D015 (1-2)**
+![FBI-UAP-D015](../attachments/FBI-UAP-D015_Digital-Rendering_Incident-1-2_Western-US-Event_2023.jpg)
+
+**D021 (1-3)**
+![FBI-UAP-D021](../attachments/FBI-UAP-D021_Digital-Rendering_Incident-1-3_Western-US-Event_2023.jpg)
+
+### Incident 2
+
+**D016 (2-1)**
+![FBI-UAP-D016](../attachments/FBI-UAP-D016_Digital-Rendering_Incident-2-1_Western-US-Event_2023.jpg)
+
+**D017 (2-2)**
+![FBI-UAP-D017](../attachments/FBI-UAP-D017_Digital-Rendering_Incident-2-2_Western-US-Event_2023.jpg)
+
+**D018 (2-3)**
+![FBI-UAP-D018](../attachments/FBI-UAP-D018_Digital-Rendering_Incident-2-3_Western-US-Event_2023.jpg)
+
+**D019 (2-4)**
+![FBI-UAP-D019](../attachments/FBI-UAP-D019_Digital-Rendering_Incident-2-4_Western-US-Event_2023.jpg)
+
+**D020 (2-5)**
+![FBI-UAP-D020](../attachments/FBI-UAP-D020_Digital-Rendering_Incident-2-5_Western-US-Event_2023.jpg)
+
+**D022 (2-6)**
+![FBI-UAP-D022](../attachments/FBI-UAP-D022_Digital-Rendering_Incident-2-6_Western-US-Event_2023.jpg)
+
+**D023 (2-7)**
+![FBI-UAP-D023](../attachments/FBI-UAP-D023_Digital-Rendering_Incident-2-7_Western-US-Event_2023.jpg)

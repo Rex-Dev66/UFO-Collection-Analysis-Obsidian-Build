@@ -36,3 +36,23 @@ The Apollo Image Library at NASA assigns AS12- and AS17- frame numbers to all or
 - Platform: [[Platform - Apollo CSM]]
 - Witnesses: [[Witness - Apollo 12 Crew]] | [[Witness - Apollo 17 Crew]]
 - Related transcripts: [[Source - NASA-UAP-D1 Apollo 12 Transcript 1969]] | [[Source - NASA-UAP-D2 Apollo 17 Transcript 1972]]
+
+## Source images
+
+**VM1 — Apollo 12 (1969)**
+![NASA-UAP-VM1](../attachments/NASA-UAP-VM1-Apollo-12-1969.jpg)
+
+**VM2 — Apollo 12 (1969)**
+![NASA-UAP-VM2](../attachments/NASA-UAP-VM2-Apollo-12-1969.jpg)
+
+**VM3 — Apollo 12 (1969)**
+![NASA-UAP-VM3](../attachments/NASA-UAP-VM3-Apollo-12-1969.jpg)
+
+**VM4 — Apollo 12 (1969)**
+![NASA-UAP-VM4](../attachments/NASA-UAP-VM4-Apollo-12-1969.jpg)
+
+**VM5 — Apollo 12 (1969)**
+![NASA-UAP-VM5](../attachments/NASA-UAP-VM5-Apollo-12-1969.jpg)
+
+**VM6 — Apollo 17 (1972)**
+![NASA-UAP-VM6](../attachments/NASA-UAP-VM6-Apollo-17-1972.jpg)

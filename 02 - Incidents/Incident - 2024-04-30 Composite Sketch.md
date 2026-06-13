@@ -56,8 +56,3 @@ The image is a color composite (the kind produced to visualize a witness account
 - Source: [[Source - 2024-04-30 Composite Sketch]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Pattern: [[Thesis - Eyewitness Divergence in Transient Aerial Events]]
-
-## Tasks
-
-- [ ] Locate the associated witness interview to determine source agency and incident
-- [ ] Link to the originating incident once identified

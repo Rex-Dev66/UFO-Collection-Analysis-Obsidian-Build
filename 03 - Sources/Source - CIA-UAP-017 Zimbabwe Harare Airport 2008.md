@@ -36,8 +36,3 @@ One of the strongest "hard UAP" items in tranche 3: a structured-disc report wit
 
 - Location: [[Location - Zimbabwe]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
-
-## Tasks
-
-- [ ] Seek any corroborating Zimbabwean civil-aviation record
-- [ ] Note the "aggressive foreign posturing" framing in the cable title

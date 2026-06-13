@@ -75,9 +75,3 @@ What is the most defensible interpretation of this observation? If conventional,
 - Unit: 
 - Sensor: 
 - Patterns: 
-
-## Tasks
-
-- [ ] Verify MGRS coordinate
-- [ ] Cross-reference any companion video file in `Collection/DOD_*`
-- [ ] Check if a public AARO summary references this event

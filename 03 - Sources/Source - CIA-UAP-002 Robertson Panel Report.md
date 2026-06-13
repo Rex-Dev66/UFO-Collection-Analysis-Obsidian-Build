@@ -35,7 +35,3 @@ The CIA-held copy of the 1953 Scientific Advisory Panel on Unidentified Flying O
 - Companion: [[Source - DOW-UAP-D085 Robertson Panel Transmission 1953]]
 - Patterns: [[Thesis - Historical Continuity of Air Force Position 1952 to 2026]]
 - Index: [[Source - CIA-UAP Series Index]]
-
-## Tasks
-
-- [ ] Compare the panel's "public education" recommendation against today's PURSUE transparency posture

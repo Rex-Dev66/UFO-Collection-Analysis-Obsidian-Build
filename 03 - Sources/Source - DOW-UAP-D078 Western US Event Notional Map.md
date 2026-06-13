@@ -43,7 +43,3 @@ This confirms the event comprised four distinct reported phenomena, not just the
 - Location: [[Location - Western United States]]
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Witnesses: [[Witness - Western US Federal Agents]]
-
-## Tasks
-
-- [ ] Note genai.mil provenance when citing these images as evidence

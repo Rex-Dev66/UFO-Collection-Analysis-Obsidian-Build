@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2024-01 Greece D25]] (event dated 2024-0
 - Location: [[Location - Greece]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

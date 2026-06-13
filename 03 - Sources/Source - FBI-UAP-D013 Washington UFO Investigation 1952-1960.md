@@ -33,7 +33,3 @@ A 55-page FBI file on UFO investigation activity (Washington) spanning 1952-1960
 ## Related entities
 
 - Era context: [[Source - FBI-UAP-D012 Newark Field Office 1952-1967]], [[Source - 1952 Samford Memorandum Flying Saucers]], [[Historical Archive Index]]
-
-## Tasks
-
-- [ ] Check for 1952 Washington wave material that complements the Samford memorandum

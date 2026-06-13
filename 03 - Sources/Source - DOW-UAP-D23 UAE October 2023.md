@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023-10 UAE D23 D27]] (event dated 2023-
 - Location: [[Location - United Arab Emirates]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

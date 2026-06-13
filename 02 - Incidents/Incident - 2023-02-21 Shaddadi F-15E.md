@@ -84,9 +84,3 @@ The Syria/Iraq border corridor is heavily trafficked by ISR balloons, surveillan
 - Sensor: [[Sensor - APG-82 Radar]] | [[Sensor - Sniper-SE]]
 - Phenomenology: [[Phenom - Round and White IR-Significant]] | [[Phenom - No Radar Return]]
 - Patterns: [[Thesis - CENTCOM Sensor Density Hypothesis]]
-
-## Tasks
-
-- [ ] Cross-reference the EMI event against any contemporaneous Turkish military activity logs
-- [ ] Check if AARO public report cites this incident by MDR number
-- [ ] Compare the 3-object formation pattern against [[Incident - 2020 Arabian Gulf D3 4-UAP Formation|D3 4-UAP Formation]]

@@ -65,7 +65,3 @@ Per a SECRET//NOFORN CIA cable, on the afternoon of 2 July 2008 an unidentified 
 - Location: [[Location - Zimbabwe]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Era continuity: [[Source - DOW-UAP-D086 US Navy Flying Discs Report 1948]], [[Incident - 1968-03 Himalayan Border UAP Wave]]
-
-## Tasks
-
-- [ ] Seek any Zimbabwean civil-aviation or press record of 2 Jul 2008

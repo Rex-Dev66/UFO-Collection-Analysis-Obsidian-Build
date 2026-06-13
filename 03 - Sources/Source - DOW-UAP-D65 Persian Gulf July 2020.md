@@ -46,9 +46,3 @@ Source document underlying [[Incident - 2020-07 Persian Gulf D65]] (event dated 
 - Location: [[Location - Arabian Gulf]]
 - Platform: long-endurance ISR (ANDAS4 primary sensor, AH/GMESH)
 - Unit: [[Unit - 482 ATKS]]
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

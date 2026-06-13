@@ -35,7 +35,3 @@ A routine public tip and courtesy FBI acknowledgment; pages 1 and 4 are handwrit
 ## Related entities
 
 - Era context: [[Source - DOW-UAP-D084 US Army Flying Saucer Study 1949]], [[Historical Archive Index]]
-
-## Tasks
-
-- [ ] File alongside the 1948-1949 service-origin documents for continuity

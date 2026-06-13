@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023 Iraq D20]] (event dated 2023), an o
 - Location: [[Location - Iraq]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

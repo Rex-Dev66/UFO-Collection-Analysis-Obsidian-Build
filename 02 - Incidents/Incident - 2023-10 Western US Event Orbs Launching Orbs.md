@@ -67,8 +67,3 @@ Over two days in October 2023, six federal law-enforcement special agents (three
 - Witnesses: [[Witness - Western US Federal Agents]]
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Patterns: [[Thesis - Domestic CONUS UAP Reporting Emerges 2021-2026]], [[Thesis - Federal Law Enforcement as a UAP Reporting Channel]]
-
-## Tasks
-
-- [ ] Cross-reference any companion video file in `Collection/DOD_*`
-- [ ] Track the AARO follow-on assessment promised in D077 "Next Steps"

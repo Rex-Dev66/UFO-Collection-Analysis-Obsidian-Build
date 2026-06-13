@@ -37,9 +37,3 @@ Source document underlying [[Incident - 2020-09 Gulf of Aden D57]] (event dated 
 - Location: [[Location - Gulf of Aden]]
 - Platform: ISR aircraft (172 ATKS)
 - Unit: [[Unit - 172 ATKS]]
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

@@ -38,7 +38,3 @@ The 13 March 1953 transmittal record of the CIA Scientific Advisory Panel (Rober
 - Companion: [[Source - CIA-UAP-002 Robertson Panel Report]]
 - Patterns: [[Thesis - Historical Continuity of Air Force Position 1952 to 2026]]
 - Era context: [[Source - 1952 Samford Memorandum Flying Saucers]]
-
-## Tasks
-
-- [ ] Reconcile the DOW transmittal copy against the CIA report copy for any redaction differences

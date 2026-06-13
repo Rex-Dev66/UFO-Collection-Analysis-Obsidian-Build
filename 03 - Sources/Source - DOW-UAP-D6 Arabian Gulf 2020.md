@@ -37,9 +37,3 @@ Source document underlying [[Incident - 2020 Arabian Gulf D6]] (event dated 2020
 - Location: [[Location - Arabian Gulf]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

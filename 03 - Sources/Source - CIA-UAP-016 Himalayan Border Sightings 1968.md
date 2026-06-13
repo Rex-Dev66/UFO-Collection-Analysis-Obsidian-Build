@@ -35,8 +35,3 @@ A CIA Information Report tabulating sightings of bright, fast-moving objects ove
 - Location: [[Location - Himalayan Border Region]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Companion: [[Source - CIA-UAP Series Index]]
-
-## Tasks
-
-- [ ] Check whether any fragment claim was ever resolved
-- [ ] Cross-reference with Indian/Nepalese reporting of the period

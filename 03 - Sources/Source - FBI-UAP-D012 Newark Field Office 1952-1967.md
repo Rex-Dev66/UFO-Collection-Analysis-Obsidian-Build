@@ -33,8 +33,3 @@ A 66-page FBI Newark Field Office file spanning 1952-1967 of UFO-related corresp
 ## Related entities
 
 - Era context: [[Source - FBI-UAP-D013 Washington UFO Investigation 1952-1960]], [[Historical Archive Index]]
-
-## Tasks
-
-- [ ] Parse for any discrete, datable observations
-- [ ] Cross-reference against the FBI 62-HQ-83894 main file in [[Historical Archive Index]]

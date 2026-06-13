@@ -92,9 +92,3 @@ Given the date (August 2020), location (North Arabian Sea, near Iranian operatin
 - Phenomenology: [[Phenom - No Radar Return]] | [[Phenom - Round and White IR-Significant]]
 - Patterns: [[Thesis - 2020 Arabian Gulf Cluster]]
 - Other 2020 incidents in same cluster: [[Incident - 2020 Arabian Gulf D3 4-UAP Formation]] | [[Incident - 2020 Arabian Gulf D4 Single UAP 321kt]] | [[Incident - 2020 Arabian Gulf D5 Two-Event Report]]
-
-## Tasks
-
-- [ ] Map MGRS-derived location and compare against Iranian UAS test ranges
-- [ ] Cross-reference DOD video catalog for any HSM-73 sensor video matching this date
-- [ ] Check [[Unit - HSM-73]] deployment history for August 2020

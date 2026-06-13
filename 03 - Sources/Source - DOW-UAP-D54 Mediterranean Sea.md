@@ -28,9 +28,3 @@ Source document underlying [[Incident - D54 Mediterranean Sea]], an observation 
 - Location: [[Location - Eastern Mediterranean]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

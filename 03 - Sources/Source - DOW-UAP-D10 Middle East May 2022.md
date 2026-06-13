@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2022-05 Middle East D10]] (event dated 2
 - Location: [[Location - Middle East]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

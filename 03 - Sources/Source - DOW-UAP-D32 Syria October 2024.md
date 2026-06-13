@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2024-10 Syria D32]] (event dated 2024-10
 - Location: [[Location - Syria]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

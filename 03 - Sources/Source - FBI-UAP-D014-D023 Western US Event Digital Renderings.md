@@ -36,7 +36,3 @@ Incident 2 renderings (D016-D020, D022, D023): two agent silhouettes (outlined w
 - Location: [[Location - Western United States]]
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Witnesses: [[Witness - Western US Federal Agents]]
-
-## Tasks
-
-- [ ] Treat as AI reconstructions (genai.mil lineage), not primary imagery

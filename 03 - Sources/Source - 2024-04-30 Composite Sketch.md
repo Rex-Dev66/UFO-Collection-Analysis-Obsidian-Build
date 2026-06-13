@@ -26,9 +26,3 @@ The file carries no extractable text (it is a rendered scene). Its visual conten
 
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Pattern: [[Thesis - Eyewitness Divergence in Transient Aerial Events]]
-
-## Tasks
-
-- [x] View the rendering
-- [ ] Determine source agency (FBI? AARO? NASA?)
-- [ ] Identify the associated witness interview and originating incident

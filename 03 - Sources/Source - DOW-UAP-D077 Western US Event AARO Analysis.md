@@ -42,8 +42,3 @@ Hypothesis dispositions: misidentified exhaust (ruled out); UAV (unlikely - mult
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Witnesses: [[Witness - Western US Federal Agents]]
 - Companion sources: [[Source - DOW-UAP-D078 Western US Event Notional Map]], [[Source - DOW-UAP-D079-D083 Western US Event Agent Narratives]], [[Source - FBI-UAP-D014-D023 Western US Event Digital Renderings]]
-
-## Tasks
-
-- [ ] Track AARO follow-on assessment promised in "Next Steps"
-- [ ] Cross-reference any companion video in `Collection/DOD_*`

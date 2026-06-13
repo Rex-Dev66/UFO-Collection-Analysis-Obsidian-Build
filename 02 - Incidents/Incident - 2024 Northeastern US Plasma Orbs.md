@@ -68,8 +68,3 @@ Following an August 2024 referral, the FBI investigated recurring "plasma orb" a
 - Witnesses: [[Witness - Northeastern US Private Witnesses]]
 - Phenomenology: [[Phenom - Red Orb with Plasma Core]]
 - Patterns: [[Thesis - Federal Law Enforcement as a UAP Reporting Channel]]
-
-## Tasks
-
-- [ ] Seek any FBI lab assessment of the claimed gamma/GPS anomalies
-- [ ] Match the 5 site photos to any released imagery

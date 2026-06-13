@@ -36,7 +36,3 @@ The file reproduces the verbatim Gemini 7 "got a bogey at 10 o'clock high" excha
 
 - Companion: [[Source - NASA Gemini Debriefings Index]]
 - Patterns: [[Thesis - Apollo Debris Misidentification Pattern]]
-
-## Tasks
-
-- [ ] Extract the full list of astronaut anecdotes and their NASA-stated explanations

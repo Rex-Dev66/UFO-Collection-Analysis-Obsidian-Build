@@ -40,9 +40,3 @@ Source document underlying [[Incident - 2020-10 D58 Range Fouler]] (event dated 
 - Location: [[Location - Middle East]] (CENTCOM AOR; specific location redacted)
 - Platform: [[Platform - F-16 Fighting Falcon]] (inferred from 77 EFS DCA)
 - Unit: [[Unit - 77 EFS]]
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

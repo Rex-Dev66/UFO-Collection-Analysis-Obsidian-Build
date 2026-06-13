@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023-11 Syria D74]] (event dated 2023-11
 - Location: [[Location - Syria]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

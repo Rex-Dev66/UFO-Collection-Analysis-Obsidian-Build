@@ -43,9 +43,3 @@ Verbatim quotes, structured fields, or specific data points worth preserving out
 - Location: 
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Confirm release authority
-- [ ] Note any redaction patterns of interest
-- [ ] Cross-reference with related sources

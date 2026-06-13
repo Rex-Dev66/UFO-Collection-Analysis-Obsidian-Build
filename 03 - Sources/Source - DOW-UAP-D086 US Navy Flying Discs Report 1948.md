@@ -37,7 +37,3 @@ A 13 December 1948 message from the Commandant, Fifth Naval District (Norfolk, V
 
 - Era context: [[Source - DOW-UAP-D084 US Army Flying Saucer Study 1949]], [[Source - DOW-UAP-D087-D088 USAF Analysis of Flying Objects]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
-
-## Tasks
-
-- [ ] Note the early institutional call for photographic evidence (echoed by the 2020s sensor-data emphasis)

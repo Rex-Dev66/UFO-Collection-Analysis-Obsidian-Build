@@ -42,10 +42,3 @@ The 32 stills are likely individual frames from the 28 `DOD_111XXXXXX.mp4` video
 
 - Phenomenology: [[Phenom - Round and White IR-Significant]]
 - Sensor: [[Sensor - EO IR]] | [[Sensor - ATFLIR]] (inferred)
-
-## Tasks
-
-- [ ] View Series A 5, 6, 8 individually
-- [ ] View Series B 1-20 and 22-24 individually
-- [ ] Attempt to correlate frame numbers with `DOD_111XXXXXX.mp4` video catalog
-- [ ] Check if any frames carry MGRS or other location metadata under redaction

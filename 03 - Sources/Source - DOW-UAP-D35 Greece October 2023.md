@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023-10 Greece D33 D35]] (event dated 20
 - Location: [[Location - Greece]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

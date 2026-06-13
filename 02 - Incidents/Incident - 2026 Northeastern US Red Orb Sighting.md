@@ -69,7 +69,3 @@ In early 2026, two witnesses described the same evening event at the Northeaster
 - Location: [[Location - Northeastern United States]]
 - Witnesses: [[Witness - Northeastern US Private Witnesses]]
 - Phenomenology: [[Phenom - Red Orb with Plasma Core]]
-
-## Tasks
-
-- [ ] Locate the attached witness video among released `Collection/DOD_*` or FBI-PR files

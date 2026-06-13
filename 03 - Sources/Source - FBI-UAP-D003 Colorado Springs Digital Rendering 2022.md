@@ -34,7 +34,3 @@ The image shows a clear daytime blue sky over the forested Cheyenne Mountain mas
 - Location: [[Location - Cheyenne Mountain]]
 - Phenomenology: [[Phenom - Shape-Shifting Translucent Object]]
 - Built from: [[Source - FBI-UAP-D002 Colorado Springs Forensic Sketch 2022]]
-
-## Tasks
-
-- [ ] Treat as illustrative reconstruction, not photographic evidence

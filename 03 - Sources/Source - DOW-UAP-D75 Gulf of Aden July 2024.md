@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2024-07 Gulf of Aden D75]] (event dated 
 - Location: [[Location - Gulf of Aden]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

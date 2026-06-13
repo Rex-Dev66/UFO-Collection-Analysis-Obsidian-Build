@@ -44,7 +44,3 @@ The witness described "the perfect 'blue bird' sky," no clouds, ~50 deg F - a di
 - Witnesses: [[Witness - Fort Carson Soldiers]]
 - Phenomenology: [[Phenom - Shape-Shifting Translucent Object]]
 - Product: the forensic sketch feeds [[Source - FBI-UAP-D003 Colorado Springs Digital Rendering 2022]]
-
-## Tasks
-
-- [ ] Note the "blue bird sky" vs. ICA "partly to mostly cloudy" discrepancy in the incident assessment

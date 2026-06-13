@@ -100,9 +100,3 @@ This incident is the strongest "extraordinary maneuver and altitude" observation
 - Platform: [[Platform - Boeing 747SP Civilian]]
 - Witnesses: [[Witness - Captain Ed Rhodes and Tajik Air Crew]]
 - Pattern: [[Thesis - High-Altitude Maneuvering Observations Have Unusual Evidentiary Weight]]
-
-## Tasks
-
-- [ ] Determine if the Rhodes photographs are archived anywhere (Embassy Dushanbe records, State Department, FOIA)
-- [ ] Cross-reference 1994 Russian/CIS high-altitude reconnaissance flight records
-- [ ] Check for any contemporaneous Soviet-bloc news or aviation safety reports

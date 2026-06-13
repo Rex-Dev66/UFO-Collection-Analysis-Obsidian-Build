@@ -39,7 +39,3 @@ Range spans confirmed meteors/meteorites through credible spherical/disc reports
 
 - Era context: [[Source - DOW-UAP-D084 US Army Flying Saucer Study 1949]], [[Source - DOW-UAP-D086 US Navy Flying Discs Report 1948]], [[Historical Archive Index]]
 - Patterns: [[Thesis - Historical Continuity of Air Force Position 1952 to 2026]]
-
-## Tasks
-
-- [ ] Reconcile case numbering against the `38_143685_box7_Incident_Summaries` files in [[Historical Archive Index]]

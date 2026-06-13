@@ -65,7 +65,3 @@ Between 19 February and 25 March 1968, a CIA Information Report tabulated repeat
 - Location: [[Location - Himalayan Border Region]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Era continuity: [[Incident - 2008-07-02 Harare Zimbabwe Disc]]
-
-## Tasks
-
-- [ ] Cross-reference 1968 Chinese missile/space-launch activity windows

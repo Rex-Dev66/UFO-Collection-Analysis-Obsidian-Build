@@ -46,7 +46,3 @@ Per-narrative notes: D079 (rangefinder-verified ~1,100 m mother orb; mismatched-
 - Location: [[Location - Western United States]]
 - Phenomenology: [[Phenom - Orbs Launching Orbs]], [[Phenom - Kite-shaped Object]]
 - Witnesses: [[Witness - Western US Federal Agents]]
-
-## Tasks
-
-- [ ] Map each narrative to the four sub-incidents on [[Source - DOW-UAP-D078 Western US Event Notional Map]]

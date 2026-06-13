@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023 Japan D42 Range Fouler]] (event dat
 - Location: [[Location - Japan]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

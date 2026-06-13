@@ -40,7 +40,3 @@ The witness stated he was contacted by AARO in early 2024 but "was never intervi
 - Location: [[Location - Cheyenne Mountain]]
 - Witnesses: [[Witness - Fort Carson Soldiers]]
 - Phenomenology: [[Phenom - Shape-Shifting Translucent Object]]
-
-## Tasks
-
-- [ ] Cross-reference with the FD-1057 forensic sketch interview ([[Source - FBI-UAP-D002 Colorado Springs Forensic Sketch 2022]])

@@ -40,9 +40,3 @@ Source document underlying [[Incident - 2020-11 Iran D64]] (event dated 2020-11-
 - Location: [[Location - Iran]]
 - Platform: MQ-9 Reaper class (ANDAS4 sensor)
 - Unit: [[Unit - 482 ATKS]]
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

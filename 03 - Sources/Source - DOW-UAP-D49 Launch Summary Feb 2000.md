@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2000-02 D49 Launch Summary]] (event date
 - Location: 
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

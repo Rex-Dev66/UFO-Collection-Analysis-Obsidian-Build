@@ -46,8 +46,3 @@ The assessment explicitly records "low confidence in this assessment based on un
 - Phenomenology: [[Phenom - Shape-Shifting Translucent Object]]
 - Witnesses: [[Witness - Fort Carson Soldiers]]
 - Companion sources: [[Source - FBI-UAP-D001 Colorado Springs FD-302 2022]], [[Source - FBI-UAP-D002 Colorado Springs Forensic Sketch 2022]], [[Source - FBI-UAP-D003 Colorado Springs Digital Rendering 2022]]
-
-## Tasks
-
-- [ ] Confirm originating IC element (redacted in document)
-- [ ] Reconcile the witnesses' "clear sky" account against the cited cloud reports

@@ -36,9 +36,3 @@ The Apollo Image Library at NASA assigns AS12- and AS17- frame numbers to all or
 - Platform: [[Platform - Apollo CSM]]
 - Witnesses: [[Witness - Apollo 12 Crew]] | [[Witness - Apollo 17 Crew]]
 - Related transcripts: [[Source - NASA-UAP-D1 Apollo 12 Transcript 1969]] | [[Source - NASA-UAP-D2 Apollo 17 Transcript 1972]]
-
-## Tasks
-
-- [ ] Cross-reference VM filenames against NASA Apollo Image Library AS-numbered frames
-- [ ] View VM5 individually
-- [ ] Note whether any inset feature corresponds to an in-transcript observation by the relevant crew

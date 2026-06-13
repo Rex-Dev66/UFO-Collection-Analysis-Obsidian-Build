@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2022-12 Iraq D18]] (event dated 2022-12)
 - Location: [[Location - Iraq]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

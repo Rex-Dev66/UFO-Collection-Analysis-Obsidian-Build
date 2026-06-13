@@ -41,7 +41,3 @@ The two FD-302s corroborate one another on the ~9:15pm arrival, the paired red o
 - Phenomenology: [[Phenom - Red Orb with Plasma Core]]
 - Witnesses: [[Witness - Northeastern US Private Witnesses]]
 - Prior case file: [[Source - FBI-UAP-D004-D008 Northeastern US 2024 EC Series]]
-
-## Tasks
-
-- [ ] Determine whether the attached video corresponds to a `Collection/DOD_*` release

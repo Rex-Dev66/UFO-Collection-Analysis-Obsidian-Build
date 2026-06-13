@@ -50,12 +50,6 @@ The natural hypothesis is that this set is the bulk video accompaniment to the D
 
 The 32 FBI Photo series stills (A1-A8 PNG, B1-B24 PDF) are likely individual frames extracted from these 28 videos. The visual style is consistent: ATFLIR-class targeting pod imagery with central crosshair, hash-mark scale, redaction bars over sensor metadata.
 
-## Tasks (if analysis scope changes)
-
-- [ ] Open each video and capture: date stamp, location stamp, observed object, sensor mode, duration
-- [ ] Cross-reference each video against the corresponding MISREP by date and location
-- [ ] Confirm or deny the hypothesis that the FBI Photo stills are frames from this video set
-
 ## Related
 
 - [[FBI Photo Series Index]]

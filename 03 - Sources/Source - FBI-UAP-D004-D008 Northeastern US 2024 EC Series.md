@@ -42,8 +42,3 @@ Five FBI FD-1057 electronic communications documenting the Bureau's 2024 investi
 - Phenomenology: [[Phenom - Red Orb with Plasma Core]]
 - Witnesses: [[Witness - Northeastern US Private Witnesses]]
 - Continues in: [[Source - FBI-UAP-D009-D010 Northeastern US 2026 Orb Interviews]]
-
-## Tasks
-
-- [ ] Seek any FBI assessment of the claimed gamma-radiation and GPS anomalies
-- [ ] Cross-reference the 24 enclosed site-survey photos

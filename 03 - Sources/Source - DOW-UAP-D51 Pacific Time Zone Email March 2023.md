@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2023-03 Pacific Time Zone D51]] (event d
 - Location: [[Location - INDOPACOM AOR]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

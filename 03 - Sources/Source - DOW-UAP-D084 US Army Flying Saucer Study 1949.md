@@ -38,7 +38,3 @@ A 1949 Department of the Army General Staff study (Plans & Operations Division, 
 - Era context: [[Source - DOW-UAP-D086 US Navy Flying Discs Report 1948]], [[Source - DOW-UAP-D087-D088 USAF Analysis of Flying Objects]], [[Source - FBI-UAP-D011 Hoover Correspondence Referral 1949]]
 - Phenomenology: [[Phenom - Disc with Rotating Underside Lights]]
 - Patterns: [[Thesis - Historical Continuity of Air Force Position 1952 to 2026]]
-
-## Tasks
-
-- [ ] Cross-reference with the 1949 Army 319.1 Flying Discs file in [[Historical Archive Index]]

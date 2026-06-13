@@ -72,8 +72,3 @@ On the morning of 15 February 2022, five U.S. Army service members at Fort Carso
 - Witnesses: [[Witness - Fort Carson Soldiers]]
 - Phenomenology: [[Phenom - Shape-Shifting Translucent Object]]
 - Patterns: [[Thesis - Domestic CONUS UAP Reporting Emerges 2021-2026]]
-
-## Tasks
-
-- [ ] Obtain the five original witness sketches if released
-- [ ] Independently check the 0935-0945 solar geometry against the witnesses' clear-sky claim

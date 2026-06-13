@@ -28,9 +28,3 @@ Source document underlying [[Incident - 2024 East China Sea D28]] (event dated 2
 - Location: [[Location - East China Sea]]
 - Platform: 
 - Unit: 
-
-## Tasks
-
-- [ ] Locate and review the source PDF
-- [ ] Fill document metadata (classification, release authority, MDR, page count)
-- [ ] Confirm verbatim extractions

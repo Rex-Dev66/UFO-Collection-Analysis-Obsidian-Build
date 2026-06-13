@@ -36,4 +36,4 @@ Three things resist easy conventional dismissal and deserve the most scrutiny:
 
 ## All theses
 
-For the full set with status and confidence, see [[MOC - Patterns and Theses]] (the `09 - Patterns and Theses` folder).
+For the full set with status and confidence, see [[MOC - Patterns and Theses]] (the `10 - Patterns and Theses` folder).

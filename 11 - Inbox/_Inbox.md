@@ -14,7 +14,7 @@ type: reference
 - 53 incident notes, all populated from their source documents (no empty stubs)
 - 82 source notes (one per source document; large historical archives are index-tracked, see below)
 - Full entity coverage: 29 locations, 20 platforms/units, 6 sensors, 10 witnesses, 10 phenomenology notes
-- 11 thesis notes and 14 Canvases in `09 - Patterns and Theses`
+- 11 thesis notes and 14 Canvases in `10 - Patterns and Theses`
 - 5 MOC notes with Dataview queries
 - Reference: acronyms, timeline, release authorities, AARO overview, Operation Inherent Resolve, Russian KCTG, SPEAR
 

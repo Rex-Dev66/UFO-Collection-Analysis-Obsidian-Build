@@ -19,15 +19,15 @@ type: reference
 
 ## Verify it works
 
-Open `01 - Maps of Content/MOC - Incidents by Year.md`. You should see live tables of all incident notes. If you still see raw `TABLE ... FROM ...` code, the plugin is not yet enabled.
+Open `02 - Map of Content/MOC - Incidents by Year.md`. You should see live tables of all incident notes. If you still see raw `TABLE ... FROM ...` code, the plugin is not yet enabled.
 
 ## Install Templater (recommended, optional)
 
-The note templates in `10 - Conventions and Templates/` work as plain markdown templates without Templater. With the Templater plugin, you can auto-populate dates and prompt for fields at note creation.
+The note templates in `01 - Conventions and Templates/` work as plain markdown templates without Templater. With the Templater plugin, you can auto-populate dates and prompt for fields at note creation.
 
 1. Settings > Community plugins > Browse > search ==Templater== (by SilentVoid13)
 2. Install + Enable
-3. Settings > Templater > Template folder location > set to `10 - Conventions and Templates`
+3. Settings > Templater > Template folder location > set to `01 - Conventions and Templates`
 4. Optional: bind a hotkey to "Templater: Create new note from template"
 
 ## Enable Canvas (built-in)
@@ -48,8 +48,8 @@ Open `2020 Arabian Gulf Cluster.canvas` in the vault root to see the spatial rel
    - Search `tag:#aor/indopacom` > color: blue
    - Search `tag:#status/unresolved` > color: orange
    - Search `tag:#status/assessed-conventional` > color: green
-   - Search `path:"02 - Incidents"` > color: yellow
-   - Search `path:"03 - Sources"` > color: purple
+   - Search `path:"03 - Incidents"` > color: yellow
+   - Search `path:"04 - Sources"` > color: purple
 
 The 2020 Arabian Gulf cluster will be visible as a tight community of orange-yellow nodes around the Arabian Gulf location node.
 

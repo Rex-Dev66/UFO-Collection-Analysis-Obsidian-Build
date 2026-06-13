@@ -8,7 +8,7 @@ It turns a pile of source PDFs — DoD/DOW mission reports, State Department cab
 > **Open this in Obsidian to get the real value.** On GitHub you're seeing flat Markdown — the static text of the notes. The repository comes alive only inside a local [Obsidian](https://obsidian.md) vault, where the structure is actually navigable: the **interactive graph** maps every connection between incidents, sources, and entities; **backlinks** surface everything that references a note; `[[wikilinks]]` let you traverse the network in a click; **Canvas** boards lay out spatial relationships; and the **live Dataview tables** (e.g. "all incidents from this platform") compute themselves from the underlying data. Clone the repo, open the folder as a vault, install the Dataview plugin (see [Getting started](#getting-started)), and the collection turns from a pile of files into a connected research environment.
 
 > [!NOTE]
-> **What this is and isn't.** This is a *research and organization* project built on publicly available, officially released material. Cataloging a reported event or reproducing a document's original classification marking (e.g. "SECRET//NOFORN") is a statement about the **source record**, not a claim that any phenomenon is extraterrestrial or that any conclusion is established fact. Analytical hypotheses live in `09 - Patterns and Theses` and are explicitly labeled as hypotheses. Treat everything here as structured notes for study, not as settled truth.
+> **What this is and isn't.** This is a *research and organization* project built on publicly available, officially released material. Cataloging a reported event or reproducing a document's original classification marking (e.g. "SECRET//NOFORN") is a statement about the **source record**, not a claim that any phenomenon is extraterrestrial or that any conclusion is established fact. Analytical hypotheses live in `10 - Patterns and Theses` and are explicitly labeled as hypotheses. Treat everything here as structured notes for study, not as settled truth.
 
 ---
 
@@ -16,16 +16,16 @@ It turns a pile of source PDFs — DoD/DOW mission reports, State Department cab
 
 | Note type | Count | Folder |
 | --------- | ----: | ------ |
-| Incidents (observation events) | 53 | `02 - Incidents` |
-| Sources (one per source document) | 82 | `03 - Sources` |
-| Locations (places, AORs, regions) | 29 | `04 - Locations` |
-| Platforms & Units (aircraft, military units) | 20 | `05 - Platforms and Units` |
-| Sensors & Equipment (pods, radars, weapons) | 6 | `06 - Sensors and Equipment` |
-| Witnesses (named or categorical) | 10 | `07 - Witnesses` |
-| Phenomenology (shapes, behaviors, signatures) | 10 | `08 - Phenomenology` |
-| Patterns & Theses (analytical hypotheses) | 11 | `09 - Patterns and Theses` |
-| Canvases (spatial / relationship maps) | 14 | `09 - Patterns and Theses/Canvas` |
-| Maps of Content (Dataview navigation pages) | 5 | `01 - Maps of Content` |
+| Incidents (observation events) | 53 | `03 - Incidents` |
+| Sources (one per source document) | 82 | `04 - Sources` |
+| Locations (places, AORs, regions) | 29 | `05 - Locations` |
+| Platforms & Units (aircraft, military units) | 20 | `06 - Platforms and Units` |
+| Sensors & Equipment (pods, radars, weapons) | 6 | `07 - Sensors and Equipment` |
+| Witnesses (named or categorical) | 10 | `08 - Witnesses` |
+| Phenomenology (shapes, behaviors, signatures) | 10 | `09 - Phenomenology` |
+| Patterns & Theses (analytical hypotheses) | 11 | `10 - Patterns and Theses` |
+| Canvases (spatial / relationship maps) | 14 | `10 - Patterns and Theses/Canvas` |
+| Maps of Content (Dataview navigation pages) | 5 | `02 - Map of Content` |
 | Reference (glossary, timeline, release authorities) | 7 | `99 - Reference` |
 
 ~247 interconnected Markdown notes in total.
@@ -39,16 +39,16 @@ The vault is organized in three tiers — **orientation** at the top, **content*
 | Folder | Purpose |
 | ------ | ------- |
 | `00 - Summaries` | **Start here** — narrative cluster briefs + key findings that pull the collection together |
-| `01 - Maps of Content` | Navigation pages built from live Dataview queries |
-| `02 - Incidents` | One note per UAP observation event |
-| `03 - Sources` | One note per source document (PDF/image/cable) |
-| `04 - Locations` | Geographic entities — places, AORs, MGRS regions |
-| `05 - Platforms and Units` | Aircraft types and military units |
-| `06 - Sensors and Equipment` | EO/IR pods, radars, weapons systems |
-| `07 - Witnesses` | Named witnesses or witness categories |
-| `08 - Phenomenology` | Observed behaviors, shapes, and signatures |
-| `09 - Patterns and Theses` | Cross-cutting analytical hypotheses + Canvas maps |
-| `10 - Conventions and Templates` | Vault rules, controlled vocabulary, and note templates |
+| `01 - Conventions and Templates` | Vault rules, controlled vocabulary, and note templates |
+| `02 - Map of Content` | Navigation pages built from live Dataview queries |
+| `03 - Incidents` | One note per UAP observation event |
+| `04 - Sources` | One note per source document (PDF/image/cable) |
+| `05 - Locations` | Geographic entities — places, AORs, MGRS regions |
+| `06 - Platforms and Units` | Aircraft types and military units |
+| `07 - Sensors and Equipment` | EO/IR pods, radars, weapons systems |
+| `08 - Witnesses` | Named witnesses or witness categories |
+| `09 - Phenomenology` | Observed behaviors, shapes, and signatures |
+| `10 - Patterns and Theses` | Cross-cutting analytical hypotheses + Canvas maps |
 | `11 - Inbox` | Drop-in zone for unprocessed notes |
 | `99 - Reference` | Acronyms, glossary, timeline, release authorities |
 
@@ -70,8 +70,8 @@ Many navigation pages (`Home`, the MOCs) use live [Dataview](https://github.com/
 2. **Browse → search "Dataview"** (by Michael Brenan) → **Install → Enable**
 
 ### 3. (Optional) Templater + Canvas
-- **Templater** (by SilentVoid13) auto-populates dates and prompts for fields when creating notes from the templates in `10 - Conventions and Templates`. The templates also work as plain Markdown without it.
-- **Canvas** is a built-in core plugin — verify it's enabled to view the `.canvas` relationship maps in `09 - Patterns and Theses/Canvas`.
+- **Templater** (by SilentVoid13) auto-populates dates and prompts for fields when creating notes from the templates in `01 - Conventions and Templates`. The templates also work as plain Markdown without it.
+- **Canvas** is a built-in core plugin — verify it's enabled to view the `.canvas` relationship maps in `10 - Patterns and Theses/Canvas`.
 
 A full walkthrough — including suggested graph-view color groups — is in [`SETUP FIRST.md`](SETUP%20FIRST.md).
 
@@ -88,7 +88,7 @@ Open [`Home.md`](Home.md) for the main hub, then explore the Maps of Content:
 
 ## How the vault is organized
 
-The single source of truth for structure is [`10 - Conventions and Templates/Vault Conventions.md`](10%20-%20Conventions%20and%20Templates/Vault%20Conventions.md). Highlights:
+The single source of truth for structure is [`01 - Conventions and Templates/Vault Conventions.md`](01%20-%20Conventions%20and%20Templates/Vault%20Conventions.md). Highlights:
 
 ### Naming
 Plain title case with a note-type prefix; structured dates go in frontmatter, not filenames.
@@ -109,7 +109,7 @@ Tags are namespaced and drawn from a fixed list (no ad-hoc tags):
 - **Phenomenology** — `#phenom/orb`, `#phenom/white-hot`, `#phenom/disc`, `#phenom/no-radar-return`, …
 
 ### Templates
-`10 - Conventions and Templates` contains a template for every note type (Incident, Source, Location, Platform, Unit, Sensor, Witness, Thesis) so new entries stay consistent.
+`01 - Conventions and Templates` contains a template for every note type (Incident, Source, Location, Platform, Unit, Sensor, Witness, Thesis) so new entries stay consistent.
 
 ---
 
@@ -124,7 +124,7 @@ Source documents come from the rolling **PURSUE / WAR.GOV/UFO** public-release p
 - **NASA** Gemini/Apollo crew debriefings and visual materials
 - **Historical service studies** (Army/Navy/USAF, 1948–1953)
 
-Geographically the corpus is CENTCOM-heavy (~70%), with INDOPACOM, EUCOM/Mediterranean, and a historical/domestic remainder. See [`10 - Conventions and Templates/Collection Overview.md`](10%20-%20Conventions%20and%20Templates/Collection%20Overview.md) and `99 - Reference/Release Authorities` for full provenance.
+Geographically the corpus is CENTCOM-heavy (~70%), with INDOPACOM, EUCOM/Mediterranean, and a historical/domestic remainder. See [`01 - Conventions and Templates/Collection Overview.md`](01%20-%20Conventions%20and%20Templates/Collection%20Overview.md) and `99 - Reference/Release Authorities` for full provenance.
 
 ### Tracing a note back to its source
 
@@ -143,7 +143,7 @@ That filename is the document's name as released by the originating agency, so y
 If you fork this to add your own notes:
 
 1. Read `Vault Conventions.md` first.
-2. Use the matching template from `10 - Conventions and Templates`.
+2. Use the matching template from `01 - Conventions and Templates`.
 3. Reuse existing tags from the controlled vocabulary — add new ones to the conventions note *before* using them, so the graph and Dataview queries stay coherent.
 4. Keep one event per incident note and one document per source note.
 

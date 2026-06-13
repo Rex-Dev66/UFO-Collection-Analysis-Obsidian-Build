@@ -28,4 +28,4 @@ This is a structured analysis of **publicly released, declassified U.S. governme
 ## Going deeper
 
 - Navigation indexes: [[MOC - Incidents by Year]] · [[MOC - Incidents by Location]] · [[MOC - Platforms and Units]] · [[MOC - Sources]] · [[MOC - Patterns and Theses]]
-- The full analytical layer: the `09 - Patterns and Theses` folder (theses + Canvas relationship maps)
+- The full analytical layer: the `10 - Patterns and Theses` folder (theses + Canvas relationship maps)

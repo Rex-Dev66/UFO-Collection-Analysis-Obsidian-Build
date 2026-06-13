@@ -37,16 +37,16 @@ The fastest way to get oriented. See [[_Summaries|Summaries — Start Here]] for
 | Folder | Purpose |
 | ------ | ------- |
 | `00 - Summaries` | Start here — narrative briefs + key findings |
-| `01 - Maps of Content` | Navigation pages built from Dataview queries |
-| `02 - Incidents` | One note per UAP observation event |
-| `03 - Sources` | One note per source PDF |
-| `04 - Locations` | Geographic entities (places, AORs, MGRS regions) |
-| `05 - Platforms and Units` | Aircraft types and military units |
-| `06 - Sensors and Equipment` | EO/IR pods, radars, weapons systems |
-| `07 - Witnesses` | Named witnesses or witness categories |
-| `08 - Phenomenology` | Observed behaviors, shapes, signatures |
-| `09 - Patterns and Theses` | Cross-cutting analytical hypotheses |
-| `10 - Conventions and Templates` | Vault rules and note templates |
+| `01 - Conventions and Templates` | Vault rules and note templates |
+| `02 - Map of Content` | Navigation pages built from Dataview queries |
+| `03 - Incidents` | One note per UAP observation event |
+| `04 - Sources` | One note per source PDF |
+| `05 - Locations` | Geographic entities (places, AORs, MGRS regions) |
+| `06 - Platforms and Units` | Aircraft types and military units |
+| `07 - Sensors and Equipment` | EO/IR pods, radars, weapons systems |
+| `08 - Witnesses` | Named witnesses or witness categories |
+| `09 - Phenomenology` | Observed behaviors, shapes, signatures |
+| `10 - Patterns and Theses` | Cross-cutting analytical hypotheses |
 | `11 - Inbox` | Drop-in zone for unprocessed notes |
 | `99 - Reference` | Acronyms, glossary, timeline, release authorities |
 
@@ -56,7 +56,7 @@ The fastest way to get oriented. See [[_Summaries|Summaries — Start Here]] for
 TABLE WITHOUT ID
   "Incidents" AS "Type",
   length(rows) AS "Count"
-FROM "02 - Incidents"
+FROM "03 - Incidents"
 GROUP BY true
 ```
 
@@ -64,7 +64,7 @@ GROUP BY true
 TABLE WITHOUT ID
   "Sources" AS "Type",
   length(rows) AS "Count"
-FROM "03 - Sources"
+FROM "04 - Sources"
 GROUP BY true
 ```
 
@@ -72,7 +72,7 @@ GROUP BY true
 TABLE WITHOUT ID
   status AS "Status",
   length(rows) AS "Count"
-FROM "02 - Incidents"
+FROM "03 - Incidents"
 WHERE status
 GROUP BY status
 SORT length(rows) DESC
@@ -85,7 +85,7 @@ TABLE
   date_event AS "Date",
   aor AS "AOR",
   status AS "Status"
-FROM "02 - Incidents"
+FROM "03 - Incidents"
 SORT file.ctime DESC
 LIMIT 10
 ```

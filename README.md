@@ -143,6 +143,12 @@ If you fork this to add your own notes:
 
 ---
 
+## How this vault was built
+
+This collection was assembled with Anthropic's Claude models — **Claude Fable 5** and **Claude Opus 4.8** both contributed to building the vault: researching the documents, authoring the notes and cross-references, and organizing and publishing the repository.
+
+---
+
 ## License
 
 The notes and analysis in this repository are released under the **Creative Commons CC0 1.0 Universal** public-domain dedication — see [`LICENSE`](LICENSE). You are free to copy, modify, and reuse this material for any purpose, without permission or attribution.

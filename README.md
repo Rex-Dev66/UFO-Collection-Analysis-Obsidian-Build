@@ -4,6 +4,9 @@ An [Obsidian](https://obsidian.md) knowledge vault that structures, cross-refere
 
 It turns a pile of source PDFs — DoD/DOW mission reports, State Department cables, CIA cables, FBI case files, NASA debriefings, and historical service studies — into a navigable network of incidents, sources, locations, platforms, sensors, witnesses, observed phenomenology, and cross-cutting analytical theses.
 
+> [!TIP]
+> **Open this in Obsidian to get the real value.** On GitHub you're seeing flat Markdown — the static text of the notes. The repository comes alive only inside a local [Obsidian](https://obsidian.md) vault, where the structure is actually navigable: the **interactive graph** maps every connection between incidents, sources, and entities; **backlinks** surface everything that references a note; `[[wikilinks]]` let you traverse the network in a click; **Canvas** boards lay out spatial relationships; and the **live Dataview tables** (e.g. "all incidents from this platform") compute themselves from the underlying data. Clone the repo, open the folder as a vault, install the Dataview plugin (see [Getting started](#getting-started)), and the collection turns from a pile of files into a connected research environment.
+
 > [!NOTE]
 > **What this is and isn't.** This is a *research and organization* project built on publicly available, officially released material. Cataloging a reported event or reproducing a document's original classification marking (e.g. "SECRET//NOFORN") is a statement about the **source record**, not a claim that any phenomenon is extraterrestrial or that any conclusion is established fact. Analytical hypotheses live in `09 - Patterns and Theses` and are explicitly labeled as hypotheses. Treat everything here as structured notes for study, not as settled truth.
 

@@ -19,15 +19,15 @@ type: reference
 
 ## Verify it works
 
-Open `10 - MOCs/MOC - Incidents by Year.md`. You should see live tables of all incident notes. If you still see raw `TABLE ... FROM ...` code, the plugin is not yet enabled.
+Open `01 - Maps of Content/MOC - Incidents by Year.md`. You should see live tables of all incident notes. If you still see raw `TABLE ... FROM ...` code, the plugin is not yet enabled.
 
 ## Install Templater (recommended, optional)
 
-The note templates in `01 - Conventions and Templates/` work as plain markdown templates without Templater. With the Templater plugin, you can auto-populate dates and prompt for fields at note creation.
+The note templates in `10 - Conventions and Templates/` work as plain markdown templates without Templater. With the Templater plugin, you can auto-populate dates and prompt for fields at note creation.
 
 1. Settings > Community plugins > Browse > search ==Templater== (by SilentVoid13)
 2. Install + Enable
-3. Settings > Templater > Template folder location > set to `01 - Conventions and Templates`
+3. Settings > Templater > Template folder location > set to `10 - Conventions and Templates`
 4. Optional: bind a hotkey to "Templater: Create new note from template"
 
 ## Enable Canvas (built-in)

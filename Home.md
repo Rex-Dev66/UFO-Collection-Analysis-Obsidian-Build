@@ -10,6 +10,13 @@ type: reference
 > [!SUMMARY]
 > This vault is the analytical workspace for the [[Collection Overview|UAP file collection]]. Source PDFs live in the parent `Collection` folder. This vault stores structured notes, cross-references, and analytical layers built on top of those sources.
 
+## Summaries — read these first
+
+The fastest way to get oriented. See [[_Summaries|Summaries — Start Here]] for the full set.
+
+- [[Key Findings and Open Questions]] - the analytical bottom line
+- [[Brief - 2020 Arabian Gulf Cluster]] · [[Brief - CENTCOM Operational Stream 2022-2024]] · [[Brief - Domestic CONUS Emergence]] · [[Brief - Mediterranean and Russian Activity]] · [[Brief - INDOPACOM and the Pacific]] · [[Brief - Apollo and NASA Lunar]] · [[Brief - Historical Foundations and Isolated Cases]]
+
 ## Start here
 
 - [[SETUP FIRST]] - install Dataview plugin so the live tables render
@@ -29,8 +36,8 @@ type: reference
 
 | Folder | Purpose |
 | ------ | ------- |
-| `00 - Inbox` | Drop-in zone for unprocessed notes |
-| `01 - Conventions and Templates` | Vault rules and note templates |
+| `00 - Summaries` | Start here — narrative briefs + key findings |
+| `01 - Maps of Content` | Navigation pages built from Dataview queries |
 | `02 - Incidents` | One note per UAP observation event |
 | `03 - Sources` | One note per source PDF |
 | `04 - Locations` | Geographic entities (places, AORs, MGRS regions) |
@@ -39,7 +46,8 @@ type: reference
 | `07 - Witnesses` | Named witnesses or witness categories |
 | `08 - Phenomenology` | Observed behaviors, shapes, signatures |
 | `09 - Patterns and Theses` | Cross-cutting analytical hypotheses |
-| `10 - MOCs` | Navigation pages built from Dataview queries |
+| `10 - Conventions and Templates` | Vault rules and note templates |
+| `11 - Inbox` | Drop-in zone for unprocessed notes |
 | `99 - Reference` | Acronyms, glossary, timeline, release authorities |
 
 ## Quick stats
